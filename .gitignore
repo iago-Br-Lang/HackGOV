@@ -16,3 +16,13 @@ npm-debug.log*
 # Banco de dados local do backend (feature `server`), gerado em runtime
 *.db
 *.db-journal
+
+# Backend Java (Maven)
+/backend-java/target
+
+# Scripts Python: dados fictícios e relatórios gerados (não versionar)
+/scripts-python/data/
+/scripts-python/output/
+/scripts-python/__pycache__/
+/scripts-python/**/__pycache__/
+/scripts-python/.venv/

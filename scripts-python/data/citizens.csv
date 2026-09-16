@@ -1,0 +1,801 @@
+cpf,nome,data_nascimento,cidade,estado,nivel_conta,email
+104.965.823-05,Mariana Andrade,1942-09-25,Cunha,ES,Prata,novaismiguel@example.net
+863.742.091-50,Dr. Eduardo Cunha,2005-11-04,Caldeira de Minas,MG,Bronze,fogacacatarina@example.net
+407.983.521-32,Maria Cecília Oliveira,1953-10-16,Aparecida,RO,Bronze,amandabarros@example.org
+164.352.987-00,João Felipe Sampaio,2004-06-11,Pereira,RS,Bronze,sophiesiqueira@example.org
+276.954.183-82,Ian Andrade,1995-06-28,Guerra Paulista,AP,Prata,ana-vitoriacunha@example.net
+769.128.453-55,Dra. Mariane Pacheco,1967-11-20,Câmara Grande,PE,Prata,wborges@example.org
+128.653.097-03,Nina Moura,1957-10-24,Rodrigues,SC,Ouro,rodriguesstella@example.com
+514.386.029-60,Emanuelly Montenegro,2002-10-23,Pires,MA,Bronze,leandrofreitas@example.org
+890.423.761-04,Isaque Araújo,1957-02-04,Barros,SC,Prata,wazevedo@example.net
+297.418.306-96,Sra. Maria Liz Rios,1984-12-05,Macedo do Galho,PB,Bronze,da-cruzrael@example.org
+503.418.627-62,Bernardo Andrade,1999-03-16,Barbosa do Galho,ES,Bronze,maria-vitoria38@example.org
+973.685.102-86,Marina Fogaça,1969-07-13,Martins do Norte,RO,Prata,araujoisis@example.net
+513.864.709-10,João Lucas Martins,1957-09-14,Macedo,SE,Bronze,aragaovalentina@example.org
+132.865.940-24,Mateus Abreu,2007-10-03,da Luz dos Dourados,MA,Bronze,usampaio@example.net
+723.810.465-26,Benicio Pacheco,1973-02-24,Araújo,PE,Prata,cirinodavi-miguel@example.net
+136.049.728-50,Stephany Dias,2004-04-24,Costela Alegre,ES,Prata,isabela24@example.com
+510.349.762-06,Julia Cardoso,2004-03-19,Azevedo de Goiás,MS,Bronze,levi78@example.net
+480.592.731-32,Cauê Souza,1978-05-09,da Mata,MA,Prata,carolinecostela@example.net
+487.205.319-23,Lucas Gabriel Vargas,1949-08-10,Castro dos Dourados,PI,Ouro,anovais@example.org
+120.684.937-13,Leandro Fonseca,2001-11-18,Fogaça,DF,Bronze,gustavofogaca@example.net
+623.915.708-21,Sra. Maria Sophia Rios,1999-07-04,da Mata,CE,Ouro,garciabreno@example.com
+397.261.405-52,Luísa da Mota,1999-07-11,Vargas,GO,Prata,nicole68@example.com
+014.872.936-31,Dr. Pedro Henrique Pereira,2007-09-07,Gomes,RJ,Bronze,thomasaparecida@example.net
+603.278.951-95,Camila Silveira,2001-12-14,Montenegro da Mata,RO,Bronze,zduarte@example.net
+482.135.679-19,Agatha da Rosa,1960-03-25,Lopes,SE,Ouro,maria-flor77@example.net
+387.651.042-26,Isaac Rocha,1961-10-30,Costa,BA,Bronze,aparecidasamuel@example.com
+917.354.826-09,Maria Liz da Cruz,1950-09-30,Sá,SP,Bronze,vasconceloslais@example.org
+287.041.653-90,Vitória Novais,1981-03-24,Sá dos Dourados,RN,Bronze,cnovaes@example.org
+794.612.380-96,Pedro Lucas Barbosa,1989-04-06,da Costa Paulista,MT,Ouro,valentina12@example.org
+362.510.987-59,Nina Leão,1944-12-10,Leão,MG,Prata,teixeiragabrielly@example.com
+054.638.179-01,Pedro Henrique Mendonça,1942-09-06,Fernandes das Flores,SC,Ouro,maria-helenacardoso@example.net
+806.479.521-49,Ravi Cirino,1944-02-16,Garcia Alegre,DF,Prata,vduarte@example.com
+469.803.527-92,Sr. Bernardo Vasconcelos,2005-11-06,Sá,AC,Prata,muriloalmeida@example.net
+239.850.167-12,Sr. Danilo Vasconcelos,1996-06-16,das Neves,AM,Ouro,das-nevesfernanda@example.com
+319.052.647-80,Dr. Léo Azevedo,1975-02-19,Albuquerque das Pedras,TO,Prata,bcaldeira@example.com
+726.154.839-19,Maya Siqueira,1981-01-09,Duarte de Goiás,TO,Prata,da-motamanuella@example.org
+765.032.198-30,Dr. Luigi da Mota,2000-08-11,Novais do Sul,PE,Ouro,enzo-gabrielda-costa@example.net
+673.589.402-29,Henry Guerra,1987-10-13,das Neves,RO,Prata,maria-julia88@example.com
+685.273.914-73,Dante Silveira,1953-10-23,Campos da Prata,SP,Ouro,matheuscunha@example.net
+748.012.536-44,Anthony Gabriel Santos,1977-01-19,da Mota,AL,Prata,novaesana@example.net
+271.604.983-13,Manuela Cirino,2006-05-29,da Cunha,PR,Prata,azevedoisadora@example.com
+102.947.835-04,Maria Vitória Pereira,1981-04-09,Vasconcelos,PE,Bronze,cmachado@example.com
+964.780.532-29,Bruno Castro,1957-01-10,Novaes,AP,Bronze,andrejesus@example.com
+974.012.835-14,Igor da Luz,1994-04-26,Lima,AM,Bronze,kaiqueda-mata@example.org
+102.674.598-58,Liz Sampaio,1968-02-05,Montenegro da Prata,PR,Bronze,mbarros@example.org
+654.091.827-58,Ana Cecília Teixeira,1992-03-03,Melo,PE,Bronze,lda-mota@example.net
+671.329.580-03,Lucas Jesus,1987-11-29,da Paz de Ribeiro,MG,Bronze,marquesfelipe@example.com
+451.639.027-25,Ana Júlia Correia,1975-12-26,Pinto do Amparo,RS,Bronze,dteixeira@example.org
+482.735.096-56,Srta. Luana Novaes,1941-08-20,Borges de Goiás,TO,Prata,martinsisaac@example.net
+274.859.316-28,Rafael Novaes,1950-07-20,Correia do Galho,SC,Prata,davi-miguelda-mota@example.com
+584.602.731-80,Pietro Nascimento,1973-08-31,Farias da Prata,SP,Prata,umarques@example.org
+369.870.251-77,Sra. Maria Isis Ribeiro,1994-08-18,Monteiro,AL,Bronze,milenapastor@example.com
+179.430.856-39,Ravy Viana,2006-08-29,Fernandes das Flores,RS,Bronze,fariassophie@example.com
+570.481.293-79,Beatriz Teixeira,1983-10-31,Macedo,CE,Ouro,benjamin05@example.org
+458.317.620-17,Erick Barros,1982-03-08,Pinto de Goiás,PR,Prata,ravimartins@example.net
+479.503.286-65,Pedro Miguel Ferreira,2007-12-01,Porto das Pedras,RR,Prata,maria-alice43@example.com
+713.942.568-09,Miguel da Mota,1941-04-04,Pereira,SC,Bronze,xda-paz@example.org
+953.814.270-50,Aylla Pires,1984-09-08,das Neves,SE,Prata,landrade@example.com
+214.953.806-70,Maria Clara Moura,1974-11-08,Cavalcante Paulista,TO,Bronze,vda-rocha@example.com
+179.863.205-59,João Nascimento,1949-02-11,Freitas de Rocha,SC,Prata,giovanna51@example.net
+370.462.158-71,Nicole Sampaio,1961-04-08,Camargo Grande,AL,Ouro,da-rosamarina@example.org
+132.867.540-80,Beatriz Mendonça,1982-08-08,da Mota do Norte,RR,Prata,pedro-henrique77@example.org
+519.472.086-67,Davi Marques,1946-12-11,Ramos,RS,Prata,aragaobrenda@example.org
+231.647.508-62,Alexandre da Mota,1999-02-13,Cardoso,PI,Prata,luiz-fernando10@example.org
+053.429.176-70,Otto Moura,1948-06-09,Melo,PB,Ouro,olivia91@example.com
+830.564.217-80,Rhavi Guerra,1969-09-18,Mendonça,RR,Ouro,fbarbosa@example.com
+921.784.563-91,Sofia Pereira,1969-12-24,Vieira,RR,Bronze,rezendepedro@example.com
+736.285.490-00,Dr. Levi Rios,1958-01-19,Cassiano do Amparo,AP,Bronze,barrosfrancisco@example.com
+152.406.738-53,Maria Rios,2004-09-30,Silveira do Norte,MA,Bronze,clarice19@example.net
+327.108.456-44,Heloisa Lima,1998-03-21,Pereira,RO,Bronze,benjamin24@example.net
+458.017.362-71,Dra. Ana Borges,1991-06-24,Garcia,PA,Bronze,kfernandes@example.com
+451.078.623-90,Pedro Miguel Ribeiro,1969-07-23,Pereira de Macedo,PA,Ouro,pedro81@example.com
+614.597.328-55,Henry Gonçalves,2007-09-12,Abreu,DF,Ouro,otavio24@example.com
+510.396.874-66,Heloísa Montenegro,1978-09-23,Barbosa das Flores,SC,Bronze,lopesarthur-miguel@example.com
+156.438.209-51,Luan Cavalcante,1995-03-27,Sales de Fonseca,AP,Prata,pcaldeira@example.com
+961.325.780-21,Thomas Porto,1948-06-19,Vasconcelos,MS,Prata,juan31@example.org
+432.910.578-05,Melissa Rodrigues,2003-08-05,Pires Alegre,BA,Ouro,eazevedo@example.com
+490.287.613-22,Benjamin Freitas,1997-04-20,Barbosa de Minas,RN,Prata,lmartins@example.net
+073.248.195-32,Luigi Silva,1946-06-12,Aparecida,ES,Bronze,hmacedo@example.net
+925.863.410-15,Lívia Azevedo,1963-02-21,Novais,RO,Bronze,qda-paz@example.net
+925.041.873-60,Bryan das Neves,1978-09-28,Ramos Alegre,TO,Prata,saraborges@example.net
+685.027.193-86,Evelyn Câmara,1950-01-25,Barbosa,MA,Bronze,montenegrovalentina@example.net
+805.641.392-89,Enzo Silveira,1970-06-28,Jesus,MS,Prata,liviapimenta@example.com
+738.291.654-55,Larissa Vasconcelos,1966-09-10,Castro do Oeste,SE,Ouro,theodoroaragao@example.net
+751.840.263-71,Rael Moraes,1950-09-25,Borges de Goiás,TO,Prata,bferreira@example.com
+065.139.247-07,Sr. Lucas Gabriel Vieira,1950-08-24,Andrade,MA,Bronze,isampaio@example.net
+790.862.153-86,João Pedro da Costa,1961-03-14,Aragão,ES,Ouro,yporto@example.net
+718.634.025-35,Srta. Lavínia Lima,1940-10-23,da Costa Verde,PA,Prata,enzo-gabrielmoura@example.com
+180.367.592-68,Srta. Maria Alice Viana,1945-04-21,da Costa do Campo,SP,Bronze,joao-felipe05@example.net
+527.931.406-43,Juan Costa,1943-09-08,Aparecida,MT,Bronze,olivia68@example.com
+403.268.519-33,Dr. Murilo Souza,1970-08-18,Fernandes da Serra,PR,Bronze,zfreitas@example.net
+416.039.825-15,Sr. Bruno Duarte,1985-09-06,das Neves dos Dourados,RN,Prata,scavalcante@example.com
+570.924.318-32,Nathan Fonseca,1975-08-15,Alves,BA,Ouro,iandrade@example.org
+358.940.126-51,Dr. Pedro Miguel Teixeira,1945-12-08,Moura,MS,Prata,pdias@example.com
+310.589.427-60,José Pedro Santos,1971-01-28,Pimenta,MA,Bronze,hcosta@example.org
+172.530.869-02,Srta. Ágatha da Rocha,2001-05-12,Castro da Serra,SE,Prata,nicole31@example.org
+237.094.516-80,Aurora Azevedo,1961-10-02,Silva do Amparo,PE,Ouro,avargas@example.net
+125.703.489-88,Yuri Porto,1980-09-14,Vargas,BA,Prata,dmontenegro@example.org
+824.169.537-37,José Costa,1983-12-03,Cardoso da Mata,RN,Ouro,montenegrolucca@example.net
+928.546.730-00,Bruno Aparecida,2005-04-03,Rezende do Oeste,SP,Ouro,opinto@example.org
+784.523.169-09,Rafael Barbosa,1987-07-26,Castro,PB,Bronze,dmendes@example.org
+529.678.410-30,Sr. Liam da Costa,1972-06-13,da Mata,PB,Prata,joao-miguelbrito@example.org
+468.172.903-50,Sophie Martins,1974-08-24,Monteiro do Sul,AP,Prata,dmontenegro@example.org
+350.729.416-80,Pedro Carvalho,2000-10-03,Siqueira da Praia,SP,Prata,cfonseca@example.com
+083.246.915-70,Lara Pinto,1987-01-03,Cardoso,AM,Bronze,yfreitas@example.com
+852.149.370-32,Arthur Miguel Carvalho,1989-04-07,Melo do Galho,PB,Prata,oliviacarvalho@example.com
+952.347.861-37,Dra. Letícia Melo,1996-03-20,Freitas,MT,Bronze,leaoana-liz@example.net
+074.586.129-67,Pietra Cavalcante,1976-05-18,Casa Grande de Goiás,AL,Prata,correiaarthur-miguel@example.com
+562.391.874-37,Dra. Ana Liz Santos,1950-02-07,Novais,MT,Prata,ymoura@example.com
+275.498.306-65,Kaique Câmara,2004-10-09,Vargas da Mata,RR,Ouro,marianadias@example.com
+584.207.316-17,João Vitor Aparecida,1960-04-12,Ferreira,PB,Ouro,maria-luiza33@example.net
+489.107.652-67,Vitória Câmara,1984-02-13,Aragão,AM,Bronze,tfarias@example.com
+120.493.657-99,Lorenzo da Paz,1984-08-28,Vargas,AP,Prata,sophiesousa@example.net
+026.719.354-80,Sra. Ana Carolina Albuquerque,1961-01-04,Farias,MA,Bronze,iramos@example.net
+729.810.645-76,Jade Silva,1953-05-18,Sousa,MT,Ouro,matheus29@example.net
+695.038.147-66,Sr. André da Luz,1966-10-22,Machado,SP,Ouro,bella49@example.net
+904.521.863-15,Lorena Castro,1968-04-17,Sales do Campo,RS,Bronze,emilly93@example.org
+279.354.816-28,Helena Teixeira,1957-07-18,Moura,PB,Prata,eduardo91@example.org
+893.461.572-91,Gustavo Silva,1980-05-22,Borges de Moraes,PB,Prata,marquesjoao@example.net
+670.432.819-03,Henrique Pacheco,1945-09-04,Lima,MS,Bronze,nogueiradante@example.org
+704.315.692-07,Maria Flor Garcia,1946-03-02,Rezende,MS,Ouro,cavalcantistephany@example.com
+823.605.917-03,Maria Helena da Conceição,1957-07-19,Ferreira de Cassiano,GO,Prata,henry-gabrielandrade@example.net
+603.185.497-00,Augusto Guerra,1970-07-30,Nogueira,DF,Ouro,carvalhomilena@example.com
+358.126.497-82,Bento Novais,2005-04-02,Pires,RO,Prata,fnovais@example.org
+569.738.142-55,Vitor Gabriel Melo,1957-02-07,da Rosa,RR,Bronze,maria-fernandaaraujo@example.net
+692.317.580-12,Maria Eduarda Borges,1977-02-26,Aragão,GO,Bronze,mrocha@example.net
+013.645.879-39,Dr. Anthony Gabriel Cunha,2004-06-24,Sousa,AM,Bronze,sda-cruz@example.net
+369.425.718-73,José Pedro Fonseca,1975-08-09,Martins de Brito,SE,Ouro,uteixeira@example.org
+596.041.873-84,Maria Vitória da Rocha,1951-01-29,Farias,ES,Ouro,pnunes@example.com
+854.639.701-57,Davi Miguel Silveira,1977-11-24,Cirino de Nogueira,RS,Ouro,mourabernardo@example.org
+096.157.823-86,Henrique Montenegro,1971-09-27,Araújo do Amparo,RO,Bronze,aalmeida@example.net
+860.742.591-94,Cauê Brito,1976-05-22,da Costa,DF,Bronze,daniela46@example.org
+567.419.230-80,Ana Beatriz Borges,1968-04-14,Garcia da Prata,PR,Ouro,portoantony@example.net
+217.639.045-80,Heitor Sales,2001-02-07,da Mata de Aparecida,AP,Ouro,yasmin90@example.org
+503.417.896-66,Isabella Nunes,1997-07-03,Rocha da Prata,MT,Bronze,vsa@example.org
+185.063.974-48,Maria Laura Vasconcelos,1962-12-01,Porto,GO,Prata,omendonca@example.com
+869.154.307-84,Brayan Barros,1958-12-10,Garcia,RR,Bronze,heloisadias@example.com
+190.236.475-99,Francisco Lopes,1971-04-02,Caldeira do Sul,AP,Ouro,francisco99@example.com
+604.398.127-04,Maria Helena Cavalcante,1950-02-25,da Rosa Paulista,PR,Ouro,davi-lucascavalcante@example.com
+469.302.751-07,Fernanda Marques,1947-12-26,da Rosa,AC,Bronze,nfarias@example.com
+579.384.162-82,Gabriela Mendes,1962-02-01,Gonçalves,MT,Prata,mariane93@example.com
+649.208.175-76,Amanda Siqueira,1972-02-13,Macedo,SE,Prata,davi-miguel67@example.org
+439.518.706-48,Pietra Pacheco,1967-12-25,Nogueira do Norte,SE,Bronze,stella91@example.org
+352.840.917-79,Anthony Brito,1958-04-24,Moraes,SC,Ouro,maitefreitas@example.com
+782.903.516-40,Danilo Siqueira,1950-05-07,das Neves Alegre,PB,Prata,raquelmendes@example.com
+719.563.208-30,Danilo Almeida,1998-06-29,Ramos do Campo,RO,Bronze,ryanmoreira@example.org
+825.437.160-17,Pedro Gonçalves,1942-09-10,Machado,RJ,Prata,agomes@example.net
+394.650.728-00,Dr. Gael Henrique Marques,1948-06-17,Rios do Amparo,PE,Prata,hellena96@example.net
+158.634.927-91,Antonella Rocha,1949-10-27,Campos de Goiás,MA,Bronze,cirinoevelyn@example.net
+286.341.750-90,Zoe Sales,2003-04-03,Novais,CE,Bronze,ida-paz@example.org
+570.628.349-47,Sofia Rezende,1974-05-22,Rodrigues do Amparo,PA,Ouro,kmendonca@example.org
+903.286.147-69,Raul Nunes,1991-03-27,Novaes de Moraes,AM,Prata,da-matayasmin@example.com
+807.413.926-31,Arthur Gabriel Machado,1958-08-04,Borges dos Dourados,AM,Prata,ottosousa@example.net
+562.419.803-51,Lara Peixoto,1977-05-15,Duarte,RR,Prata,amanda94@example.net
+126.089.475-49,Sra. Isadora Teixeira,1998-02-09,Mendonça Grande,RJ,Bronze,kamilly67@example.org
+164.523.790-70,Srta. Natália Porto,1985-11-25,Azevedo da Prata,MG,Bronze,lizcunha@example.com
+459.278.163-55,Sr. Augusto Brito,1983-04-26,Almeida de Campos,CE,Bronze,amarques@example.com
+324.180.567-08,Sr. Benjamim Gonçalves,1983-04-12,Silveira de Goiás,PA,Prata,santosgabriel@example.org
+371.846.902-22,Sra. Bárbara Lima,1987-12-08,Mendes,AP,Bronze,hadassaborges@example.net
+195.268.307-68,Vinícius Nunes,1941-04-13,Macedo,MS,Bronze,kevinjesus@example.net
+731.096.852-21,Sr. Josué da Mota,1984-07-28,da Cruz,PI,Bronze,benjamim43@example.net
+983.572.061-40,Brenda da Costa,1974-09-14,Moura,AC,Prata,anna-liz26@example.net
+652.930.478-92,João Cunha,1943-06-01,Vieira,MG,Bronze,melissa66@example.net
+612.709.543-34,Vitor Gabriel Duarte,1967-04-18,das Neves,RR,Ouro,psiqueira@example.org
+316.094.785-84,Anthony Gabriel Santos,1950-01-16,Castro,PR,Ouro,rebeca84@example.org
+524.906.813-89,Ana Luiza da Luz,1989-03-06,Monteiro,PB,Bronze,daniel79@example.org
+524.607.938-47,Anthony Gabriel da Cruz,1943-11-01,Fonseca de Gomes,BA,Bronze,brayannovaes@example.net
+635.182.409-51,Theodoro Rocha,2002-01-30,Cavalcanti,ES,Prata,guerradavi-miguel@example.com
+495.083.617-00,Kevin Sousa,1983-01-30,Martins,MS,Bronze,xvargas@example.org
+832.096.175-03,Alexia Farias,1940-10-21,Sousa da Mata,AM,Bronze,sofiada-costa@example.com
+702.598.431-05,Sra. Natália Souza,1946-06-26,Montenegro,BA,Ouro,lbarbosa@example.net
+062.175.483-80,Dr. João Gabriel da Conceição,1945-10-15,Carvalho,SP,Prata,cassianoheitor@example.org
+795.304.281-97,Ravi da Luz,1998-09-19,Borges,CE,Prata,bruno35@example.org
+135.840.297-32,Nathan Machado,1978-07-16,Brito,PB,Ouro,vieirajoao-lucas@example.org
+093.167.248-13,Joana Barbosa,1942-03-10,Costa,RS,Ouro,fcardoso@example.com
+107.894.325-79,Ana Garcia,1987-03-14,Cavalcanti da Praia,DF,Bronze,yanda-mota@example.com
+203.597.461-52,Caio da Mota,1966-10-08,Leão,DF,Bronze,yasminvieira@example.org
+657.432.918-37,Apollo Dias,1981-05-04,Alves,SE,Prata,danilo78@example.com
+932.015.786-30,Mathias Fogaça,2004-05-06,Cavalcanti,ES,Prata,elisa90@example.net
+523.674.801-17,Caleb Araújo,1956-07-14,Almeida,PE,Prata,vabreu@example.net
+325.718.094-23,Cecília Vasconcelos,1948-04-02,Barbosa da Praia,RR,Prata,gpastor@example.com
+452.183.976-28,Luiz Henrique Câmara,1985-12-29,Garcia,MA,Prata,jose-miguel20@example.net
+960.142.857-76,Cecília Farias,1991-06-05,da Costa,MS,Ouro,lucas-gabriel15@example.com
+043.159.268-33,Srta. Ana Julia Gomes,1970-07-12,Cavalcante das Pedras,PR,Bronze,iferreira@example.com
+173.980.465-10,Dr. Cauã Barbosa,1963-12-19,Garcia,CE,Prata,novaesfrancisco@example.com
+970.351.682-30,Lucas Costela,2007-01-05,Jesus,RR,Bronze,alexia43@example.org
+067.192.583-03,Rhavi Costa,1947-04-22,Costela,CE,Ouro,enrico71@example.com
+678.520.341-44,Maria Eduarda Cirino,1971-01-15,da Luz,PB,Bronze,oda-luz@example.com
+902.658.471-76,Maria Sophia Sá,1980-11-01,Novaes,AL,Bronze,amoreira@example.net
+739.208.564-65,Pietro Cavalcanti,2005-04-16,Cunha,SE,Prata,joseaparecida@example.com
+163.859.240-33,Mathias Novais,1967-09-30,da Mota do Galho,PB,Prata,vianarebeca@example.com
+162.945.037-52,Vitor Gabriel Ferreira,2000-06-12,da Luz das Flores,RS,Bronze,moliveira@example.com
+024.317.695-34,Sr. Benicio Souza,1973-01-16,Freitas do Sul,MT,Bronze,ana-livia47@example.net
+132.758.694-00,Aurora Correia,1970-10-06,Jesus,SC,Ouro,hteixeira@example.com
+082.974.365-00,Gael Costa,1997-08-30,da Cruz,AL,Prata,xaragao@example.net
+345.698.720-00,Ana da Costa,1966-01-19,Peixoto de Machado,CE,Ouro,jpastor@example.com
+524.960.871-01,Enrico Oliveira,1993-10-09,Câmara,RS,Prata,noahda-mata@example.net
+680.957.342-92,Alexia Câmara,1957-11-18,Silva Paulista,PA,Bronze,dferreira@example.com
+374.586.920-65,Thomas Ribeiro,2006-06-23,Novais da Mata,MA,Ouro,mendesdavi-lucas@example.com
+459.286.107-85,Nathan Ribeiro,1962-06-15,Silveira,AC,Ouro,qda-rocha@example.com
+690.458.137-93,Yasmin Porto,1994-02-12,Rios de Fogaça,PE,Ouro,luigi82@example.com
+172.584.963-19,Aurora Câmara,1964-11-18,Souza,MA,Ouro,vviana@example.com
+497.603.528-00,Evelyn Montenegro,1948-11-10,Moura da Mata,PA,Ouro,cassianojoao-guilherme@example.org
+567.128.049-49,Emanuelly Dias,1983-11-19,Abreu,PB,Bronze,otto29@example.org
+712.435.689-09,Alana Andrade,1977-01-11,Siqueira,MS,Prata,duartesofia@example.org
+093.152.487-32,Sarah Pastor,1961-07-15,Azevedo,TO,Bronze,da-rosaamanda@example.com
+895.371.246-73,Enzo Guerra,1942-01-03,Câmara,SC,Prata,otaviosiqueira@example.org
+982.076.351-77,Ana Julia Peixoto,2008-05-23,Ribeiro,AM,Bronze,aragaoigor@example.com
+761.423.905-99,Otto Ribeiro,1947-07-30,Pinto Grande,PA,Prata,moraesisaac@example.com
+197.846.230-13,Dr. Juan Castro,1943-05-22,Costela de Sales,PR,Ouro,ravy00@example.net
+197.804.523-97,Igor Marques,2007-12-26,da Luz dos Dourados,AL,Bronze,cavalcantibruno@example.com
+596.807.432-92,Eloá Farias,1965-01-13,Pinto de da Mata,SC,Ouro,freitascaroline@example.org
+168.327.490-31,Davi Lucca Sampaio,1990-02-20,Castro,AM,Prata,epastor@example.net
+726.984.053-92,Raquel Camargo,2001-02-08,Macedo do Norte,AP,Prata,ana-sophia08@example.net
+935.467.018-01,Manuella Ribeiro,1986-09-23,Cassiano da Prata,RN,Ouro,albuquerquelevi@example.net
+792.038.154-14,Thiago Câmara,1978-03-02,Guerra de Goiás,AP,Ouro,zmacedo@example.net
+719.320.654-07,Nathan Jesus,1943-02-22,Borges,SE,Prata,nicole83@example.net
+758.601.342-07,Dra. Maria Clara Silva,1971-07-02,Brito,SP,Prata,andrefernandes@example.com
+485.706.139-20,Dra. Maria Luísa Caldeira,1958-01-04,Correia,AM,Bronze,dcunha@example.org
+516.094.782-58,Sofia Carvalho,2006-04-18,Abreu de Moura,SC,Bronze,novaesluana@example.net
+782.541.603-17,Luna Montenegro,2000-09-07,Leão de Goiás,GO,Ouro,sfernandes@example.com
+296.457.831-19,Dra. Helena Costa,1954-12-23,Rodrigues da Praia,RO,Prata,luiz-henriquemontenegro@example.net
+519.436.728-73,Alice Moreira,1947-12-14,Garcia,BA,Prata,riosdaniel@example.org
+429.581.067-30,Vitor Hugo Andrade,1965-02-11,Caldeira de Pimenta,RO,Prata,heloisada-costa@example.net
+406.372.851-07,Pedro Miguel Câmara,2002-09-25,Sá Verde,PI,Bronze,mathiasda-rocha@example.com
+219.854.063-06,Lara Novais,1958-09-08,Castro,RJ,Prata,anthony57@example.net
+209.748.613-40,Liam Moura,1955-09-04,Moreira,AP,Prata,kamillynogueira@example.net
+615.892.473-37,Vinícius Melo,2008-07-11,Camargo,RO,Ouro,maite39@example.net
+305.986.241-98,Valentim Vargas,1966-03-22,Mendonça de Aparecida,MA,Bronze,auroramoraes@example.org
+120.579.483-23,Gustavo Nascimento,1997-02-06,Ramos de Minas,SC,Ouro,beniciomarques@example.net
+501.867.239-03,Heloísa da Luz,1968-06-11,Machado das Flores,PA,Bronze,arthur-gabriel61@example.net
+019.572.684-76,Aurora da Paz,1992-10-12,Garcia de Gonçalves,TO,Bronze,melolevi@example.net
+326.748.195-37,Yuri Novais,1950-04-29,Aparecida,AC,Prata,jnascimento@example.org
+435.189.602-70,José Correia,1948-07-03,Rios,SE,Prata,saisis@example.com
+814.502.639-33,Dr. Davi Lucas Rios,1985-04-23,Brito,MA,Bronze,correiaanna-liz@example.com
+754.891.263-37,André Dias,1957-06-16,Silva,SC,Bronze,xda-mota@example.org
+578.329.640-65,Bruno da Mota,1999-02-21,Nascimento,DF,Ouro,eduardo10@example.net
+063.942.758-83,Dr. Henry Gabriel Vargas,1980-10-29,Carvalho dos Dourados,PE,Bronze,goncalvesemanuella@example.net
+032.641.897-04,Clara Sousa,1990-07-09,Fogaça de Aparecida,ES,Prata,eda-conceicao@example.com
+530.914.268-15,Ana Clara Aparecida,2007-06-08,Caldeira do Galho,RS,Prata,vinicius98@example.net
+268.940.715-94,Maria Luiza Fogaça,1996-04-26,Mendonça do Amparo,RN,Prata,montenegrojoao-lucas@example.com
+231.459.706-07,Luiz Miguel Pereira,1989-07-08,Ribeiro,ES,Prata,ufarias@example.org
+798.146.302-50,Davi Lucas Oliveira,1981-01-05,Carvalho,RS,Prata,oliveirajuan@example.org
+249.836.071-96,Henrique Machado,1981-12-24,Mendes de Cavalcante,ES,Ouro,jpeixoto@example.net
+284.159.370-32,Marcos Vinicius Gomes,1949-09-14,Almeida,DF,Bronze,mcassiano@example.org
+270.645.831-35,Caroline Pereira,1977-05-28,Vasconcelos,RO,Prata,amoreira@example.com
+086.135.249-15,Catarina da Cunha,1973-03-05,Barros,MA,Bronze,mda-cunha@example.org
+081.493.726-87,Maria Cecília Caldeira,1951-03-29,Rezende Verde,GO,Prata,stella69@example.com
+946.713.805-01,Rafaela da Cunha,2007-12-22,Oliveira da Praia,SP,Prata,isousa@example.net
+137.659.084-01,Sr. Enrico Gomes,2006-05-06,Borges,TO,Bronze,maria-juliapeixoto@example.com
+194.820.756-76,Stephany da Paz,1989-02-17,Vasconcelos,TO,Bronze,mayamacedo@example.org
+384.107.625-44,Ana Carolina Fonseca,1956-12-26,Castro,AP,Ouro,isabelly56@example.com
+930.567.421-61,Dra. Marcela Ferreira,2006-04-04,Câmara do Oeste,PB,Bronze,aoliveira@example.com
+261.408.975-30,Jade Nascimento,1996-01-15,Sales dos Dourados,MG,Prata,pvargas@example.com
+790.382.516-02,Heloísa Dias,1968-10-08,Moreira da Prata,AC,Ouro,theo41@example.com
+512.379.846-37,Gabriel Monteiro,1990-11-13,da Costa,SC,Ouro,viniciuscostela@example.org
+395.107.426-43,Alana Teixeira,1999-01-12,Mendes,MS,Bronze,marina94@example.com
+284.317.506-26,Ágatha Andrade,1974-11-25,Gonçalves da Serra,PB,Bronze,sampaiorafaela@example.com
+508.913.762-59,Joana Cirino,1978-01-13,da Costa Paulista,PR,Bronze,emanuelly27@example.com
+365.298.704-74,Heloísa Brito,1989-10-03,da Costa da Prata,PA,Ouro,jcosta@example.net
+270.135.694-61,Letícia da Cunha,1978-12-17,Gonçalves,AM,Ouro,dantecunha@example.com
+719.526.483-19,Sr. Noah Campos,1964-08-06,Oliveira,RJ,Ouro,alicefogaca@example.com
+879.034.216-03,Lucca Leão,1983-08-31,Barbosa de Minas,CE,Prata,rafael55@example.net
+496.237.510-52,Antônio Cardoso,1990-03-25,Ribeiro,GO,Bronze,costelalucas-gabriel@example.com
+198.340.576-01,João Pinto,1951-04-10,Rezende,MG,Ouro,raul34@example.com
+298.067.413-31,Júlia Novaes,1970-12-23,Sampaio,PI,Prata,maria-alicepires@example.net
+964.237.105-70,Luiz Otávio Jesus,1958-05-21,da Rosa,AC,Prata,moreirajoao-gabriel@example.com
+470.536.281-08,Igor Vieira,1941-03-13,Correia das Pedras,PI,Ouro,pgoncalves@example.org
+693.207.184-31,Vitor da Mata,1968-10-20,Azevedo,CE,Prata,amandacamargo@example.net
+794.583.160-57,Benicio Nascimento,1942-03-19,Caldeira,MA,Bronze,jose70@example.org
+120.398.654-89,Dr. Arthur Gabriel Farias,1946-03-01,Araújo,GO,Ouro,ibarbosa@example.com
+234.680.795-83,Melina da Cruz,1990-11-25,Costa,PB,Bronze,moreiraoliver@example.com
+645.170.892-58,Letícia Costa,1965-03-26,Rios,DF,Prata,da-costaluara@example.com
+024.793.158-60,Olívia Sales,1981-04-11,Freitas,SP,Ouro,da-cruzlevi@example.com
+150.729.634-70,Liam Novais,1994-05-14,Macedo do Oeste,AC,Bronze,ufogaca@example.org
+407.539.261-99,Francisco Nogueira,1964-05-13,Siqueira dos Dourados,GO,Bronze,davi-miguelmoura@example.org
+748.923.051-97,Srta. Allana Pinto,1999-01-05,Vasconcelos de Goiás,MT,Bronze,ribeirostephany@example.com
+387.641.259-55,Luna Camargo,1947-04-04,Aparecida,TO,Prata,luiz-henriqueandrade@example.org
+173.064.829-04,Jade Aragão,1965-08-20,Pereira,RR,Bronze,albuquerqueoliver@example.net
+719.650.238-86,Sr. João Felipe Moura,1943-06-22,da Rosa,AP,Prata,rafaelabrito@example.org
+386.174.520-80,Maria Vitória Souza,1947-11-20,Rocha dos Dourados,RR,Prata,kcaldeira@example.org
+865.714.392-55,Lunna Freitas,1968-10-06,Silveira Alegre,RN,Bronze,zoecunha@example.com
+845.367.029-38,Antony Moreira,1949-11-24,Abreu da Mata,ES,Prata,ana-vitoriaalmeida@example.net
+482.063.759-29,Luiz Otávio Pacheco,1957-09-16,da Cunha,SE,Bronze,francisco96@example.net
+315.698.720-40,Letícia Andrade,1990-06-08,Barros do Norte,SP,Prata,cecilia66@example.org
+306.824.719-50,Sr. Eduardo Aragão,1986-07-19,Machado Verde,PE,Ouro,camaraluana@example.com
+628.703.591-95,Bryan Guerra,1974-11-08,Vasconcelos Grande,SP,Ouro,maria-luisanovais@example.org
+763.485.102-71,Pedro Duarte,1987-04-21,Camargo,RO,Bronze,xlima@example.com
+358.470.261-53,Melina Pinto,1950-08-18,Aparecida de da Conceição,DF,Prata,leonardo11@example.net
+032.679.584-74,Rael Melo,1942-04-03,Costela da Prata,DF,Bronze,zoemoreira@example.com
+872.560.394-92,Enzo Gabriel Araújo,1960-01-13,Vieira,RR,Bronze,caue70@example.org
+645.907.231-07,Mateus Moraes,2007-03-01,Dias,PR,Ouro,cirinomiguel@example.net
+780.914.253-41,Eduarda Almeida,1964-04-21,Fogaça da Mata,ES,Prata,davi46@example.org
+843.127.609-69,Heloísa Leão,1957-01-23,Lima,MA,Bronze,manuela82@example.org
+283.619.570-30,Eduarda Dias,1945-04-27,Cirino,MT,Prata,bentoteixeira@example.com
+694.352.107-16,Francisco Alves,1992-08-03,Pereira Verde,RN,Prata,ravida-conceicao@example.net
+051.837.624-90,Mathias Mendonça,1972-12-13,Castro,DF,Prata,beniciojesus@example.org
+463.581.902-70,Rebeca Sales,1962-10-25,da Cruz de Lima,MG,Bronze,pereiragabrielly@example.net
+560.473.892-10,Zoe Gonçalves,2007-08-28,Novais,MG,Bronze,correiaana@example.com
+648.319.270-31,Dra. Cecília Martins,1997-03-07,Borges de Silveira,PE,Ouro,cirinozoe@example.org
+695.301.827-59,Ayla da Cunha,1962-10-04,Silva,SC,Ouro,borgesian@example.net
+751.483.962-37,Enzo Gabriel Farias,1979-03-10,Castro,BA,Prata,caualeao@example.com
+479.510.682-76,Isis Albuquerque,1971-12-01,Monteiro de Nogueira,SE,Ouro,pereiramarina@example.org
+378.960.451-84,Giovanna Aragão,1953-04-14,Araújo,RS,Prata,brayan20@example.net
+945.067.382-92,Larissa Pimenta,1985-09-06,Marques,SC,Bronze,brayan14@example.com
+561.834.072-08,Davi Sales,1999-03-10,Farias do Galho,PA,Bronze,ottopimenta@example.org
+189.354.276-91,Vinicius Oliveira,2008-06-01,Cardoso Verde,PR,Bronze,zmonteiro@example.org
+934.105.768-00,Srta. Maria Vitória Jesus,1943-10-20,Ferreira da Prata,SE,Ouro,antonioporto@example.org
+491.268.503-89,Lívia Fernandes,1967-08-28,Cavalcanti,DF,Ouro,camila77@example.org
+279.534.816-00,Srta. Stephany da Rosa,1979-02-24,Novais da Prata,AC,Ouro,biancavieira@example.com
+124.608.375-26,Maria Julia Cirino,1981-03-17,Viana,SP,Ouro,ana-vitoria04@example.com
+173.286.945-64,Daniel Freitas,1994-02-13,Vasconcelos,DF,Bronze,macedonatalia@example.org
+782.193.560-30,Valentim Rocha,2008-04-05,Costela,SC,Bronze,marqueshellena@example.net
+810.274.596-76,Cauã Moreira,1992-11-04,Almeida Verde,SP,Bronze,otto53@example.org
+495.630.287-83,Danilo Albuquerque,2005-12-01,Costela,PI,Ouro,isis54@example.org
+432.079.581-41,Davi Lucca Alves,1972-09-27,Caldeira,MG,Ouro,borgesleticia@example.com
+275.961.043-80,Ravi Lucca Brito,1971-09-16,Rodrigues dos Dourados,PR,Prata,pietrocasa-grande@example.net
+456.182.973-37,Benício Melo,1948-05-21,Mendes dos Dourados,CE,Prata,cecilia99@example.org
+816.750.234-17,Vitor Martins,1967-12-25,da Costa de Goiás,PI,Bronze,maria-luisagomes@example.org
+536.784.290-92,Breno Sousa,2004-01-19,Camargo de Pastor,RN,Ouro,jduarte@example.org
+724.309.581-04,Dr. Bento Borges,1955-07-07,Pacheco,SP,Ouro,sajuan@example.net
+274.385.609-29,Luiza da Rosa,1979-07-07,Lopes da Praia,AP,Ouro,pimentanina@example.com
+240.987.561-02,João Miguel Alves,1956-09-17,Sampaio Verde,MG,Ouro,giovanna66@example.com
+832.915.647-82,João Pedro Rios,1949-04-01,Albuquerque,AP,Ouro,casa-grandemariah@example.net
+621.753.489-46,Emilly Marques,1975-05-16,Novaes dos Dourados,MG,Bronze,rael26@example.net
+073.542.861-17,Arthur Miguel Nunes,1973-08-04,Camargo Verde,PR,Prata,casa-grandesara@example.com
+781.460.935-66,Ágatha Pacheco,1961-12-21,Fernandes,PI,Bronze,melomaria@example.net
+756.298.103-59,Dra. Joana Araújo,1983-07-13,Pacheco de Cavalcante,RJ,Ouro,ribeiroana@example.net
+904.381.572-14,João Lucas da Mota,1999-01-31,Albuquerque do Campo,RN,Ouro,kevinribeiro@example.com
+524.691.308-24,Sr. Diogo Peixoto,2004-04-05,Monteiro,SP,Ouro,yvargas@example.org
+723.458.061-17,Benjamim Cavalcante,1972-04-13,Melo da Mata,PR,Ouro,gabriellyrodrigues@example.net
+674.183.092-87,Luara Moura,1987-03-05,Brito,PI,Bronze,luana94@example.com
+491.258.370-79,Dra. Evelyn Moreira,1963-09-01,Dias,PI,Ouro,rochaantony@example.org
+061.493.257-25,Gael Andrade,1942-04-27,Araújo,RN,Bronze,joaquimsantos@example.org
+126.574.908-67,Juan Martins,1985-08-26,Porto,PB,Ouro,leticia54@example.org
+140.362.798-31,Pedro Lucas Azevedo,1974-03-02,Pimenta,MG,Ouro,marianecaldeira@example.org
+863.450.721-17,Arthur Gabriel Barbosa,1945-07-01,Vasconcelos dos Dourados,AC,Bronze,pcassiano@example.net
+096.217.348-78,Rebeca Mendes,1970-05-19,Siqueira de Minas,PI,Ouro,andregomes@example.net
+715.296.304-52,Dr. Bruno Marques,1992-06-15,Ramos do Oeste,CE,Prata,gomesmateus@example.com
+615.309.872-02,Apollo Silveira,2008-07-05,Mendonça,MG,Bronze,vieiravalentina@example.net
+478.062.513-08,Bárbara Cunha,1995-08-18,Rocha de Nascimento,BA,Ouro,diegoandrade@example.net
+270.348.195-05,Erick Pires,1944-02-08,Vieira do Campo,PB,Bronze,davi-lucascaldeira@example.org
+731.698.245-46,Sr. Yago Carvalho,1962-08-04,Teixeira,AL,Bronze,brunaazevedo@example.org
+426.158.730-08,Ana Cecília Carvalho,1947-07-05,Vasconcelos da Serra,AC,Bronze,abarros@example.org
+214.356.809-60,Júlia Moreira,1971-05-11,da Costa da Serra,RN,Bronze,peixotoluiz-miguel@example.net
+714.230.896-69,Aylla Pinto,1965-05-02,Martins,SP,Ouro,yuriaragao@example.org
+127.395.064-06,Gustavo Henrique Lopes,1957-10-24,Pimenta dos Dourados,AL,Ouro,sousacaua@example.net
+290.347.561-06,Lunna Leão,1954-03-25,da Conceição do Campo,MT,Bronze,gael-henriqueda-costa@example.net
+639.108.457-20,Henrique Pimenta,1971-09-01,Gomes,MS,Prata,maria-ceciliasilveira@example.org
+543.210.897-60,Ravi Lucca Marques,1969-03-02,Teixeira,MT,Prata,ana-carolinapereira@example.org
+923.074.561-80,Lara Albuquerque,1990-05-20,Sousa de Goiás,ES,Ouro,luara93@example.net
+206.873.519-95,Beatriz Machado,1974-05-30,Barros,PI,Prata,salesjoana@example.org
+254.180.769-49,Raul Oliveira,1991-07-23,Marques,PB,Ouro,jadecirino@example.com
+701.352.894-32,Vitor Hugo Oliveira,1994-10-08,Viana,RO,Bronze,pintobruna@example.net
+085.963.217-21,Dr. Erick Ramos,1978-09-24,Novais,RR,Ouro,joao-guilhermefarias@example.org
+817.549.632-00,Theodoro Rodrigues,1969-06-26,Aragão de Minas,MS,Bronze,marcela78@example.net
+174.382.069-04,Bruno Gonçalves,2001-10-23,da Paz,AP,Ouro,cavalcanteyuri@example.org
+279.614.058-01,Ágatha Cardoso,1972-12-14,Leão dos Dourados,SC,Bronze,da-rochamarcos-vinicius@example.org
+035.842.716-90,Liz Nunes,1949-09-07,Cavalcante Paulista,ES,Bronze,sfreitas@example.org
+254.317.896-19,Erick Santos,1987-11-09,Castro,ES,Prata,aparecidaanna-liz@example.net
+274.915.068-01,Sr. Marcelo Machado,1977-06-11,Nascimento,MA,Prata,alvesjade@example.com
+275.104.936-25,Lavínia Sá,2007-06-11,Nunes,SC,Bronze,sfernandes@example.org
+702.548.961-11,Hellena Machado,1965-01-10,Duarte,AL,Prata,saracamara@example.com
+301.498.567-84,Sr. Luiz Miguel Gonçalves,1950-10-10,Freitas das Flores,MS,Prata,da-pazcatarina@example.com
+471.853.962-55,Otávio Siqueira,2001-09-15,Carvalho Verde,RN,Prata,casa-grandeoliver@example.com
+785.043.691-10,Júlia Leão,1952-08-09,Santos de Nunes,SP,Prata,murilocirino@example.com
+487.029.513-04,Apollo Vieira,1940-11-14,da Luz,MA,Bronze,pcampos@example.net
+462.351.089-15,Ana Lívia Peixoto,1991-06-11,Pacheco do Amparo,RJ,Prata,oda-luz@example.net
+715.496.083-39,Ana Laura Casa Grande,1962-06-17,Sales de Carvalho,MS,Bronze,caueda-mata@example.com
+650.294.783-29,Emilly Teixeira,1947-02-20,Nogueira,MT,Ouro,ana-julia45@example.org
+852.014.793-32,Manuela Castro,1947-09-04,Cassiano,PE,Prata,marcos-viniciusvieira@example.net
+981.360.452-24,Marcela das Neves,1987-09-25,Carvalho dos Dourados,RN,Prata,luiz-felipe40@example.net
+132.659.480-05,Davi Lucca Barros,1969-08-12,Barbosa,AC,Prata,bsa@example.org
+310.654.789-84,Augusto Azevedo,1961-03-26,Sá,AM,Prata,pereiranoah@example.net
+325.061.894-24,Sr. Theodoro Vasconcelos,1990-04-14,Montenegro,RJ,Prata,britoarthur@example.net
+394.170.586-57,Sr. Pedro Lucas Rocha,2005-11-17,Cirino,TO,Bronze,gabrielly63@example.net
+361.820.945-24,Maria Cecília Santos,1960-04-28,Barros,MT,Prata,ycamargo@example.com
+749.183.260-13,Renan Rocha,1965-09-16,Albuquerque,RO,Bronze,grocha@example.com
+781.093.426-04,Srta. Ana Luiza Fonseca,2007-01-25,Fernandes,DF,Bronze,ocampos@example.com
+748.653.219-00,Sophia da Mota,1950-09-26,Caldeira de Campos,GO,Ouro,omonteiro@example.net
+201.586.394-05,Mateus Pereira,1986-12-04,Cassiano da Mata,RN,Prata,teixeiraeduardo@example.net
+879.123.456-55,Manuela Nogueira,1977-11-26,Teixeira,AL,Bronze,ycampos@example.com
+567.309.128-12,Srta. Rebeca Lopes,1949-11-09,Silva das Flores,PR,Bronze,nunesmariane@example.net
+897.341.052-05,Maria Flor Pimenta,1986-09-28,Vargas da Mata,MT,Prata,alvescaleb@example.org
+590.682.371-95,Dr. Noah Ferreira,1944-07-19,da Cruz,ES,Prata,enzo-gabriel14@example.org
+520.487.391-05,Sophie Leão,1958-11-06,Sampaio,PR,Bronze,diasgabriela@example.net
+651.930.782-30,Maitê Cavalcante,1982-07-18,Fonseca das Pedras,DF,Bronze,yporto@example.org
+834.206.957-56,Dra. Aylla Pastor,1963-08-18,Azevedo Verde,SE,Prata,nlima@example.com
+148.357.209-97,Isis Pinto,1975-10-11,Rios de Teixeira,PI,Ouro,arthur-miguelpires@example.net
+827.153.946-91,Ana Liz Moreira,1954-05-12,Martins Grande,ES,Prata,ana-claralopes@example.com
+513.672.490-07,Isaac Guerra,1956-12-07,Cassiano,DF,Ouro,da-cruzana-luiza@example.com
+786.350.149-01,Arthur da Luz,1994-06-11,Ribeiro da Prata,CE,Prata,silveiramaria-vitoria@example.org
+015.429.386-51,Cecilia da Costa,1948-04-28,Moreira,RO,Bronze,maysa13@example.net
+158.643.970-75,Cauê Cavalcanti,1955-04-11,Macedo das Pedras,GO,Prata,mendoncasophie@example.com
+156.389.204-98,Maria Eduarda das Neves,1942-02-20,Sousa,RO,Bronze,salesrhavi@example.com
+864.592.073-56,Maria Julia Albuquerque,2002-08-13,da Cunha da Mata,AP,Bronze,ana-ceciliacostela@example.org
+756.902.814-76,Sra. Lívia Silva,1969-06-12,Castro,RR,Prata,natalia15@example.com
+985.370.426-92,Melina Vieira,1984-05-01,Abreu,MG,Prata,ana-lauradias@example.net
+192.846.357-64,Catarina da Luz,1952-07-05,da Paz do Oeste,AP,Prata,lfreitas@example.com
+630.745.198-00,João Sampaio,1998-09-03,Aragão,MG,Prata,qpeixoto@example.org
+152.408.397-60,Henry Gabriel Silva,1954-07-13,Viana,GO,Prata,maya62@example.com
+394.561.807-00,Arthur da Rocha,2007-02-17,da Costa dos Dourados,ES,Bronze,maria-cecilia10@example.com
+256.813.497-64,Calebe Novais,1944-09-14,Farias,ES,Prata,mfogaca@example.net
+908.245.316-98,Maria Eduarda Cardoso,2006-08-01,Pacheco,CE,Ouro,lucca87@example.com
+721.854.309-04,Levi Aparecida,2007-04-18,Monteiro,TO,Ouro,eloah64@example.com
+945.312.607-16,Gabriel Cassiano,1944-06-02,Cirino,AL,Bronze,kda-luz@example.net
+761.308.249-04,Sabrina Camargo,1998-04-07,Campos,MS,Bronze,costelaalice@example.org
+284.756.190-02,Emilly Leão,2003-05-04,da Cruz,SP,Prata,grocha@example.com
+041.328.976-13,Bruno Marques,1997-03-27,Marques de Pires,GO,Prata,fariascaio@example.net
+975.864.102-67,Larissa Duarte,1995-01-08,Souza,AP,Bronze,zborges@example.com
+236.071.489-96,Eduardo Campos,1961-01-08,Lopes de Sousa,SE,Ouro,joao51@example.com
+837.965.241-09,Otávio Freitas,1982-06-24,Lopes,RS,Ouro,cborges@example.net
+573.961.820-77,Ravi Lucca Lopes,1946-02-04,da Rosa de Cassiano,BA,Prata,theo86@example.com
+901.846.375-20,Isis Fogaça,1958-01-18,Vargas,PE,Bronze,camargomaria-eduarda@example.org
+260.739.451-16,Milena Pinto,1995-09-05,Fernandes da Serra,DF,Bronze,emanuelsouza@example.net
+416.905.372-99,Rhavi Marques,1987-10-13,Ribeiro do Amparo,MA,Bronze,isabela41@example.org
+203.861.574-80,Clara Rezende,1957-02-27,Pires da Prata,DF,Bronze,da-rosamaria-fernanda@example.org
+760.915.342-70,Rael Pacheco,1957-03-20,da Rocha,RJ,Prata,varagao@example.org
+168.734.209-13,Raquel Moraes,1980-12-04,da Conceição de Silva,AL,Ouro,limaana-vitoria@example.net
+146.307.298-87,Enrico da Paz,1990-02-15,Melo,MS,Bronze,gda-conceicao@example.org
+957.123.486-91,Elisa Pinto,1954-10-22,Sales de Minas,RO,Prata,lcardoso@example.org
+271.635.904-07,Ana Julia Almeida,1965-02-13,Fogaça da Serra,CE,Prata,azevedobarbara@example.com
+139.478.256-09,João Felipe Cassiano,1998-10-12,Santos,AL,Bronze,wmarques@example.org
+190.478.536-01,João Vitor Santos,1970-10-01,Siqueira de Brito,BA,Prata,bruna21@example.org
+760.132.459-16,João Felipe Freitas,1989-05-17,Fonseca de Goiás,BA,Prata,oviana@example.org
+698.342.017-96,Valentim Azevedo,1946-06-23,Dias das Flores,SP,Bronze,luaraaraujo@example.com
+029.564.813-98,Liz Silveira,1991-03-31,Ferreira do Sul,TO,Prata,sarah92@example.net
+673.495.821-37,Maria Luiza Vasconcelos,1954-02-17,Barros do Norte,PI,Bronze,heloisa28@example.net
+431.962.580-33,Arthur Vieira,1977-06-13,da Costa da Mata,SC,Ouro,hmontenegro@example.net
+054.872.936-00,Letícia Oliveira,1990-11-06,Marques,MT,Ouro,sophiepeixoto@example.org
+548.967.123-82,Isadora Caldeira,1963-01-06,Vasconcelos,MS,Bronze,jbrito@example.net
+691.083.745-20,Ana Vitória Freitas,1986-10-06,Pastor da Prata,PE,Prata,lda-luz@example.com
+678.531.420-80,Natália Cardoso,2006-07-31,Sales,DF,Bronze,cmelo@example.net
+285.043.671-26,Lavínia Aparecida,1976-04-12,Campos,MS,Ouro,evelyn44@example.com
+028.643.917-40,Fernando Sousa,1973-12-20,Campos,PI,Prata,davi-luiz06@example.com
+947.235.108-50,Melissa Cassiano,1999-08-30,Borges das Pedras,MG,Bronze,isabelafernandes@example.net
+074.591.628-76,Camila Ramos,1978-10-08,Correia,RN,Bronze,nunesrebeca@example.org
+780.954.163-39,Joaquim Santos,1997-10-17,Barros de Nascimento,RN,Ouro,isadora90@example.com
+056.139.278-12,Danilo Brito,1977-07-28,da Paz,BA,Prata,thomasvargas@example.org
+246.510.983-98,Srta. Letícia Gomes,1947-06-05,Casa Grande das Pedras,MT,Ouro,fernanda10@example.org
+397.468.015-20,Dr. Yuri Jesus,1945-02-27,Alves de Jesus,RS,Prata,arthur-miguelda-mata@example.net
+913.648.275-73,Antonella Porto,1974-10-05,Viana,BA,Ouro,valentina23@example.net
+687.093.245-00,Bento Mendes,1959-04-21,Rodrigues das Flores,MS,Prata,ninada-paz@example.org
+281.903.547-79,Giovanna Pimenta,1975-01-22,Rodrigues Alegre,RS,Ouro,marcela43@example.net
+593.742.086-10,Agatha Pereira,1973-02-18,Albuquerque,RO,Ouro,julianovais@example.net
+761.850.429-67,Camila Fogaça,2006-11-08,Peixoto da Praia,MG,Prata,antonycampos@example.com
+537.016.289-12,Caleb Pimenta,1983-04-03,Silva de Goiás,ES,Prata,cfonseca@example.com
+730.158.962-02,Yuri Correia,1985-08-10,Azevedo,RJ,Prata,davi-luccacardoso@example.com
+934.150.286-15,Paulo Ramos,1986-07-05,Duarte,PA,Ouro,hda-mota@example.net
+879.240.153-88,Yasmin Machado,1962-03-24,Gonçalves,DF,Prata,enrico90@example.net
+361.785.240-80,Aylla Alves,1973-05-14,Alves Verde,SE,Ouro,theodoro31@example.com
+350.624.179-61,Pietro Pacheco,1949-03-14,Araújo,AL,Prata,sdias@example.org
+207.894.365-74,Ana Laura Novais,1944-04-04,Garcia das Flores,AM,Prata,mda-conceicao@example.net
+907.365.814-48,Stella Farias,1980-09-15,Caldeira,AM,Bronze,peixotodavi-luiz@example.net
+324.895.706-92,Augusto Araújo,1949-05-24,Pacheco das Pedras,PE,Bronze,ana-livia98@example.org
+274.895.603-65,Isaac Montenegro,1996-06-13,Lima,MS,Prata,muriloporto@example.org
+153.876.249-82,Letícia Leão,1963-01-25,Caldeira,PB,Ouro,monteiropedro-lucas@example.org
+397.415.826-09,Sra. Gabrielly Guerra,1953-03-30,Fonseca,AC,Prata,fogacabento@example.net
+124.397.806-69,Gael Henrique da Paz,1952-07-22,da Luz,SC,Prata,camilanovaes@example.org
+230.197.458-88,Brenda Fernandes,2004-05-29,das Neves,PB,Bronze,esterfreitas@example.net
+286.507.149-94,Vitor Garcia,1987-12-16,Dias das Pedras,RS,Bronze,calebteixeira@example.net
+934.612.508-05,Thomas Pacheco,2000-12-26,Costela de Siqueira,AP,Bronze,qvieira@example.net
+126.754.893-28,Lorenzo Silva,1966-02-23,Silva de Monteiro,PR,Bronze,isadora90@example.org
+397.618.542-64,Eduarda Freitas,1958-01-10,Carvalho,SP,Bronze,da-rochalivia@example.net
+530.849.216-60,Marina Jesus,1965-09-18,Dias de da Mata,MG,Prata,cavalcantiluisa@example.org
+415.029.683-98,Dante Barbosa,1965-03-21,Nogueira,DF,Bronze,matteo54@example.com
+432.659.701-16,Luiz Felipe Viana,2008-07-16,Guerra Verde,SP,Bronze,meloolivia@example.org
+638.591.704-57,Sra. Manuela Vieira,1946-07-20,Correia das Pedras,SP,Prata,ccostela@example.com
+805.146.239-42,Maria Fernandes,1956-01-19,Lima das Flores,SP,Prata,aylla90@example.net
+028.745.319-79,Ana Luiza Nascimento,1967-01-01,Melo,AM,Bronze,marcela41@example.org
+182.054.367-62,Bernardo Gomes,1960-01-08,da Conceição,MA,Prata,marquesdanilo@example.com
+802.735.196-03,Mariah Mendes,1991-04-11,Gomes,DF,Prata,noahdas-neves@example.com
+724.916.350-70,Diego Machado,1945-01-21,Pereira de Goiás,PE,Prata,mariane77@example.net
+014.532.789-23,Isadora Cavalcanti,2001-12-12,Marques das Flores,RO,Bronze,gabrielgoncalves@example.net
+032.754.689-10,Dra. Helena Monteiro,1968-09-10,Freitas,AP,Prata,montenegroaylla@example.com
+724.190.358-79,Nicole Garcia,1964-02-03,Correia das Flores,AL,Ouro,da-cunhaian@example.net
+257.360.498-56,Sra. Cecilia Melo,1996-07-14,Castro da Serra,TO,Prata,pereiraguilherme@example.org
+416.805.297-49,Sr. Henrique Silva,1943-01-19,Macedo,RR,Prata,portorebeca@example.net
+164.307.589-66,Josué Freitas,2002-07-19,Costa,AP,Ouro,leaobenjamin@example.org
+531.706.498-84,Bianca Duarte,1962-08-31,Pinto,DF,Ouro,hlima@example.org
+315.280.967-03,Mathias Cunha,1971-12-04,Azevedo,RO,Prata,emilly01@example.org
+647.058.139-01,Lunna Pires,1988-02-03,Rocha Grande,MT,Bronze,anna-lizrios@example.com
+150.463.827-17,Alice da Conceição,1942-02-24,das Neves,ES,Prata,psa@example.net
+102.736.985-59,Arthur Miguel da Costa,2003-07-18,Sousa de Farias,BA,Ouro,anna-liz08@example.com
+403.652.987-00,Ana Júlia Rios,2007-12-19,Rodrigues,RR,Ouro,giovannamoreira@example.com
+270.836.149-03,Davi Lucas Borges,1952-07-10,da Costa,PE,Ouro,limamaria-helena@example.com
+238.714.569-00,Melissa Porto,1954-05-30,Viana do Amparo,AP,Prata,isabella62@example.com
+768.913.052-68,Kaique Peixoto,1977-04-06,Novaes,SC,Prata,theogarcia@example.com
+479.385.601-20,Ravy Costa,1951-03-27,Abreu,AC,Prata,mariane66@example.com
+567.294.013-70,Matheus Nunes,1951-10-03,Teixeira,PA,Prata,cecilia87@example.net
+506.391.478-01,Sr. Diogo da Luz,1981-11-27,Rodrigues de Casa Grande,GO,Bronze,lorenzoalbuquerque@example.org
+168.540.937-75,Isis Sales,1961-04-09,Pastor da Mata,SC,Bronze,usa@example.org
+152.789.364-28,Enzo Gabriel Mendonça,1940-10-24,Azevedo,SP,Prata,amoura@example.net
+462.178.903-13,Theodoro Camargo,1971-05-17,Cirino,DF,Bronze,souzaluiz-otavio@example.org
+467.590.183-20,Marcos Vinicius Campos,1959-07-16,Fernandes,AC,Bronze,maria-lizmendonca@example.net
+108.274.536-71,Alana Garcia,1981-09-27,Mendonça do Amparo,SP,Prata,liz55@example.net
+593.287.460-00,Dr. Carlos Eduardo Abreu,1971-10-19,Silveira Grande,AC,Prata,mouraalana@example.net
+357.489.620-47,Lorenzo Almeida,1983-11-01,Aparecida Alegre,RO,Bronze,mda-conceicao@example.com
+615.390.784-93,Srta. Stephany Oliveira,1994-02-11,Cardoso,PR,Prata,da-rosaagatha@example.com
+271.354.809-88,Caio Caldeira,1970-04-20,Castro,MT,Bronze,rvargas@example.org
+471.589.306-10,Benício Ramos,1964-01-23,Silva das Flores,RS,Prata,oda-conceicao@example.com
+149.062.785-58,Maria Eduarda Cardoso,1998-10-10,Garcia Verde,SC,Bronze,das-nevesdavi@example.net
+836.925.140-42,Miguel Albuquerque,1977-05-03,Dias de Casa Grande,TO,Prata,pedro-lucas77@example.org
+942.560.718-49,Rhavi Pires,1997-02-05,Monteiro,MA,Prata,zaraujo@example.com
+238.560.179-68,Emanuel Almeida,1977-12-29,Fernandes das Pedras,RO,Bronze,wferreira@example.com
+614.258.309-51,Sr. Kevin Marques,1985-04-03,Oliveira,BA,Prata,esampaio@example.com
+238.651.047-62,Clara Garcia,2005-05-19,Rocha da Serra,AL,Bronze,fogacamaria-julia@example.org
+015.438.792-41,Isaque Gonçalves,1973-12-15,Sales da Serra,RS,Prata,svasconcelos@example.net
+176.253.804-08,Bryan Campos,1973-12-30,Almeida,RJ,Bronze,sda-mota@example.net
+126.357.840-35,Luan Azevedo,1989-04-11,Guerra,TO,Prata,goncalvesstella@example.net
+718.690.524-20,Pietro Dias,1949-01-29,Cardoso,RJ,Bronze,lorenzoborges@example.net
+401.892.536-06,Agatha da Cruz,1961-02-28,Moreira,SE,Bronze,sophie72@example.net
+758.469.120-01,Ana Clara da Costa,1943-03-17,Casa Grande,MA,Ouro,joao-felipepereira@example.net
+354.187.906-84,Mateus Rezende,2002-03-14,Guerra,PB,Prata,da-cunhalais@example.net
+283.059.147-04,Sophia Pereira,1951-11-14,Cassiano Alegre,SE,Ouro,bgarcia@example.net
+314.076.958-00,Aurora Fonseca,2002-07-31,Vasconcelos Paulista,BA,Ouro,yanalbuquerque@example.org
+639.071.284-78,Vinícius Ferreira,1988-05-15,Novaes Paulista,RN,Bronze,aragaoluigi@example.com
+625.974.310-61,Anthony Rodrigues,1975-08-27,Ribeiro,BA,Bronze,gabrielanunes@example.net
+405.719.326-06,Pedro Lucas Fogaça,1995-01-16,Montenegro de da Paz,GO,Bronze,tmoreira@example.org
+419.320.765-06,Enzo Oliveira,1944-08-11,Souza,MA,Prata,balbuquerque@example.net
+827.345.016-35,Esther Souza,1941-03-15,Sampaio da Prata,SC,Ouro,samuel89@example.org
+972.541.603-16,Théo Fogaça,2005-07-10,Lima,PR,Bronze,xcavalcante@example.org
+531.268.970-02,Matteo Cunha,2003-07-09,Ramos do Galho,TO,Prata,martinsmariah@example.org
+507.269.831-95,Srta. Maria Liz Fogaça,1941-04-23,Lopes,PR,Ouro,enzo-gabrielmoura@example.net
+261.307.954-16,Maria Fernanda da Rosa,1965-07-05,Cirino da Prata,SE,Prata,henrique77@example.org
+256.091.734-34,Davi Luiz Gonçalves,1969-05-11,Andrade da Serra,RO,Ouro,maria-luizarios@example.com
+167.439.285-00,Daniel Caldeira,1994-08-25,Cardoso,BA,Ouro,melissa03@example.org
+560.382.417-44,Isadora Pinto,1951-01-31,da Cruz,GO,Bronze,da-luzthales@example.net
+637.504.192-99,Dante Cardoso,1968-01-05,da Mota,DF,Bronze,leticiaalmeida@example.net
+310.964.257-34,Lucca Lima,1973-04-25,Moraes,PA,Bronze,da-rosahenry@example.com
+549.731.206-34,Alexandre Aragão,1985-08-25,Cunha da Mata,PR,Bronze,guilherme62@example.com
+758.209.463-83,Dr. Luiz Miguel Souza,1993-09-14,da Costa Paulista,DF,Prata,gborges@example.org
+910.458.623-98,Breno Nogueira,1982-10-30,da Rosa do Amparo,SP,Prata,sophiesilveira@example.org
+023.748.516-80,Bárbara Lopes,1945-04-24,Leão de Moura,PE,Bronze,cavalcanteyan@example.net
+240.871.365-07,Pedro Lucas Sá,1975-05-13,Novais das Flores,MG,Prata,noah20@example.org
+930.648.217-50,João Felipe Novaes,1948-10-23,Câmara,AL,Ouro,anaaparecida@example.net
+249.701.865-02,Luiz Felipe Pires,1981-11-20,Duarte de Minas,RR,Bronze,joao-felipe69@example.com
+508.621.974-49,Vitor Gabriel Ribeiro,2007-04-24,Silveira,SC,Prata,qrezende@example.net
+983.671.240-22,Maria Laura Cassiano,1971-01-22,Siqueira,SC,Prata,jfreitas@example.com
+172.395.486-19,Srta. Larissa Almeida,1961-10-24,Cavalcanti,TO,Bronze,mrodrigues@example.org
+129.376.408-69,Srta. Beatriz Garcia,1966-11-02,Camargo,TO,Ouro,teixeiracaio@example.org
+314.857.092-88,Maitê Santos,1946-06-27,Carvalho,PR,Ouro,tcastro@example.com
+723.048.695-56,Yago da Rocha,1947-09-08,Casa Grande do Sul,ES,Bronze,da-conceicaoleticia@example.com
+254.183.067-07,Henry Gabriel Caldeira,2005-10-17,Fogaça de Minas,RN,Bronze,isaac51@example.org
+928.347.156-37,Kevin Pinto,1996-05-04,Ferreira do Campo,GO,Bronze,xribeiro@example.com
+102.659.784-67,Pietra Azevedo,1948-05-28,Siqueira Paulista,BA,Prata,duartejose-miguel@example.org
+658.397.421-55,Joaquim Gomes,1969-03-12,Nascimento de Nascimento,PR,Ouro,hadassabarros@example.net
+683.501.297-86,Luiz Miguel Novais,1972-12-15,Camargo,AL,Prata,eloah24@example.com
+286.175.093-68,Diego Garcia,1990-08-04,Sampaio,PA,Prata,caue19@example.org
+720.186.935-30,Oliver Cassiano,1992-10-16,Melo,SC,Bronze,sarahsampaio@example.com
+765.390.248-00,Arthur Gabriel Pereira,1991-10-27,Montenegro,CE,Prata,goncalveslavinia@example.net
+784.962.130-13,Caleb Moreira,1966-05-26,Souza,DF,Prata,dpinto@example.org
+621.953.478-64,Eloah Aragão,1995-05-17,Ramos das Pedras,DF,Bronze,henrique11@example.com
+950.126.738-59,Alexia Sá,2002-08-11,Correia da Prata,DF,Ouro,da-costavitor-gabriel@example.org
+907.862.513-95,Dr. Miguel Montenegro,1953-12-19,Sá das Flores,SC,Ouro,jose-pedro15@example.com
+812.043.576-17,Enrico Cassiano,1987-02-21,Barros de Pires,AP,Prata,pedrorodrigues@example.net
+295.318.476-73,Mathias da Costa,1954-12-01,Cassiano,RJ,Bronze,zbrito@example.org
+241.306.957-70,Bernardo da Mota,1979-12-09,Fogaça de Minas,AP,Ouro,maria-clarada-luz@example.com
+472.093.618-04,Maria Luísa Pinto,2003-02-12,Macedo,MS,Ouro,evelyn16@example.net
+740.859.126-58,Cauã da Rocha,1966-04-13,Nunes,MG,Bronze,camarahellena@example.com
+157.384.602-35,Cauê Gonçalves,1992-12-25,Costa das Flores,MT,Prata,diascaroline@example.net
+739.028.654-74,Clara Porto,1955-03-26,Nunes do Norte,RN,Prata,zaraujo@example.com
+673.019.852-40,Emanuelly Barros,1950-05-08,da Mota,MG,Prata,da-rosamarcela@example.com
+834.105.962-24,Gael Henrique Ferreira,2004-10-21,Mendes do Amparo,PI,Bronze,luizafogaca@example.net
+960.481.723-03,Dr. Anthony Gabriel Cassiano,2001-09-17,Casa Grande de Monteiro,MT,Ouro,vieirajoana@example.com
+807.613.942-22,Srta. Mariah Sampaio,1977-11-13,Peixoto,MG,Ouro,ceciliacostela@example.org
+905.628.714-11,Sra. Mirella Jesus,1968-08-19,Fogaça da Prata,PA,Bronze,ian27@example.com
+528.439.761-46,Larissa Sampaio,1982-12-03,Borges,SE,Ouro,borgesarthur-gabriel@example.net
+617.549.028-20,Ana Beatriz Rios,1960-06-07,Cunha de Goiás,SP,Prata,ynovaes@example.org
+371.295.408-50,Thiago da Paz,1958-12-01,das Neves das Pedras,RO,Ouro,anthonyleao@example.org
+092.674.518-20,Marina da Costa,1978-07-10,Correia das Flores,TO,Prata,oliveiraliz@example.org
+629.841.307-31,Srta. Sofia Campos,1983-09-04,Teixeira Paulista,TO,Prata,aylacostela@example.org
+106.854.972-67,Maria Helena Alves,1991-03-22,Marques,RS,Prata,marcelo33@example.com
+389.572.016-02,Antônio Porto,2007-09-21,Camargo,PB,Ouro,caldeirajoao-miguel@example.com
+421.038.756-80,Alícia Jesus,1945-09-17,Pires de Barbosa,DF,Bronze,ugarcia@example.net
+728.901.534-79,Dr. Yago Abreu,1951-06-26,Campos do Oeste,RN,Ouro,nascimentoaugusto@example.net
+823.690.147-50,Henry Barros,1990-03-25,da Mata,GO,Prata,fcosta@example.com
+847.536.901-48,Gael Henrique Rodrigues,1998-04-12,Gonçalves do Campo,RJ,Prata,lucas37@example.com
+764.829.051-02,Gabriela Nunes,1964-09-20,Pires de Minas,PB,Prata,bernardomoraes@example.com
+964.758.210-20,Fernando Duarte,1969-12-04,Fogaça,ES,Prata,cunhaesther@example.com
+251.096.847-58,Luna da Conceição,1978-12-04,Gomes,MA,Bronze,saracunha@example.org
+841.953.672-55,Gael Henrique Aragão,1995-05-01,Monteiro de Aparecida,GO,Ouro,hcampos@example.com
+256.140.983-05,Larissa Cardoso,1997-12-24,Andrade da Prata,PE,Ouro,fernandesarthur-gabriel@example.org
+716.529.483-09,Levi Monteiro,1982-05-17,Gonçalves,MA,Bronze,pmonteiro@example.org
+510.879.643-93,Dra. Maya Câmara,1952-04-15,Correia,SC,Ouro,stephany00@example.com
+019.276.438-13,Enzo Gabriel Carvalho,1980-05-29,Campos de Cardoso,MT,Bronze,juliaporto@example.com
+183.475.296-55,Caleb da Luz,1992-11-05,Silva de Minas,MS,Prata,noahsales@example.org
+170.986.345-57,Bella Fernandes,1954-11-27,Teixeira da Mata,RR,Prata,jrezende@example.net
+123.875.940-88,João Lucas Lima,1951-11-18,Oliveira do Campo,BA,Prata,vcaldeira@example.org
+307.128.956-12,Dr. Dante Novaes,1946-06-05,Lopes do Oeste,BA,Bronze,bmontenegro@example.net
+507.268.491-11,Sra. Evelyn da Rocha,1953-08-06,Cavalcanti Paulista,PE,Ouro,bmoreira@example.org
+031.795.426-16,Benício Nascimento,1947-08-01,Câmara das Flores,MG,Bronze,obrito@example.net
+473.162.985-37,Srta. Aylla Cirino,1974-12-14,Sousa de das Neves,RR,Bronze,luigidias@example.net
+128.739.064-13,Lívia Almeida,1952-10-14,Barbosa da Serra,RO,Ouro,peixotoclarice@example.com
+907.613.842-78,Lavínia da Conceição,1976-06-13,Sá,BA,Bronze,britoana-julia@example.net
+578.924.631-19,Luiz Otávio Marques,1941-08-18,da Rosa Alegre,PE,Ouro,rcamargo@example.net
+802.315.749-32,Pedro Fonseca,1954-09-29,Correia,MG,Prata,da-motayasmin@example.com
+824.596.371-28,Leonardo Correia,1943-07-03,Pimenta do Campo,PA,Bronze,ynunes@example.com
+410.358.627-35,Lavínia Pinto,1978-09-08,da Rosa,PR,Bronze,davi-lucca40@example.com
+034.679.512-52,Pedro Fogaça,1985-08-20,Aragão,GO,Ouro,clarada-paz@example.net
+821.597.430-97,Henry Andrade,1972-11-26,da Cruz das Flores,PA,Bronze,qbrito@example.com
+942.837.160-22,Davi Luiz Leão,1978-06-04,da Rosa,MA,Prata,da-rosamaria-eduarda@example.net
+268.014.395-70,Maria Alice Martins,1964-10-22,Martins das Pedras,PA,Prata,jalves@example.org
+612.478.509-94,Matteo Cardoso,1968-02-16,Martins,SE,Ouro,faragao@example.org
+415.902.368-15,Davi Sousa,1980-06-27,Sampaio,DF,Prata,mayacarvalho@example.org
+248.503.169-05,Eduardo Pereira,2000-08-01,Moreira,AM,Prata,nicolascaldeira@example.com
+087.395.216-21,Isaac Nogueira,1958-06-02,Ribeiro de Pimenta,AM,Prata,ocasa-grande@example.org
+293.145.678-00,João Vitor Rios,1947-07-07,Freitas de Rios,GO,Ouro,sgomes@example.org
+768.102.359-30,Kevin Andrade,1984-08-09,Aparecida de Fogaça,BA,Bronze,dsilveira@example.com
+025.461.837-53,Ana Luiza Cavalcanti,1985-05-04,Fogaça,RS,Bronze,maria-clara24@example.net
+461.853.970-48,Sofia Vasconcelos,1985-07-18,Cardoso Alegre,RJ,Prata,isis10@example.org
+231.508.476-80,Srta. Bella Cavalcanti,1990-04-04,Sá das Pedras,AP,Bronze,pimentatheodoro@example.org
+017.624.938-96,Rael Garcia,1949-10-09,Costa,GO,Prata,rmacedo@example.com
+392.841.076-87,Aylla Costela,1942-12-20,Abreu,MS,Prata,inunes@example.org
+527.164.389-19,Sr. Bernardo Macedo,1969-10-18,Barbosa Verde,AP,Prata,pietrada-rosa@example.org
+173.045.268-07,José Gomes,1988-07-24,Azevedo da Serra,MA,Prata,nascimentorodrigo@example.net
+984.370.521-14,Arthur Andrade,1963-09-17,da Luz do Oeste,MT,Prata,carvalhonicolas@example.net
+503.784.916-01,Anna Liz Novaes,1973-04-14,da Mata,SC,Bronze,caldeirabrayan@example.com
+835.962.104-70,Gael Henrique Nascimento,1982-02-02,Rodrigues do Sul,PI,Prata,yaragao@example.com
+268.410.375-53,Sr. Luigi Lopes,2003-03-07,da Costa,ES,Bronze,pastorantonio@example.org
+680.971.532-03,Pedro Lucas Cirino,1959-12-08,Dias,MS,Bronze,anacardoso@example.net
+671.509.234-61,Maria Alice Câmara,1970-11-21,Fonseca da Prata,MA,Bronze,sarada-mata@example.com
+891.023.476-87,Davi Miguel Moreira,1956-05-24,Sousa da Prata,DF,Bronze,freitasjoao-miguel@example.org
+378.069.512-02,Maria Isis da Rosa,1996-12-29,Araújo,GO,Bronze,bmonteiro@example.com
+670.193.524-99,Ana Júlia Ribeiro,1961-06-21,Nogueira,SP,Prata,benjamim95@example.com
+930.254.817-14,Yuri Gomes,2005-07-09,Nascimento dos Dourados,PA,Ouro,luan67@example.net
+320.856.791-02,Dr. Arthur Miguel Pimenta,1959-05-16,da Mata Paulista,SE,Bronze,camposana-liz@example.net
+542.360.981-05,Luiz Henrique Mendes,1984-02-08,Jesus,AL,Bronze,da-motaana-sophia@example.org
+724.685.309-00,Emanuella Casa Grande,1999-12-29,da Conceição,AM,Prata,cirinonatalia@example.com
+950.481.726-20,Antony Rocha,1998-03-15,Nogueira do Norte,RN,Prata,claracaldeira@example.org
+871.409.632-31,Maria Vitória Barbosa,1984-05-21,da Paz Grande,AC,Ouro,eloah56@example.net
+574.801.296-02,Apollo Caldeira,1982-02-24,Dias,PE,Prata,pedro69@example.org
+261.074.398-03,Ana Júlia Pereira,1972-11-05,Dias de da Mata,DF,Bronze,ryan53@example.com
+375.801.924-97,Sr. Luiz Gustavo Novais,1975-02-11,Fonseca,RS,Bronze,opereira@example.com
+632.418.579-64,Luigi Dias,1948-09-25,Jesus,PA,Bronze,mayapires@example.org
+270.183.946-78,Srta. Carolina Andrade,1997-06-13,Alves da Serra,AP,Bronze,oliviamoura@example.com
+652.384.179-00,Lucca Fernandes,1980-12-15,Silveira,AL,Bronze,sousadaniela@example.com
+679.231.480-31,André Pastor,1981-01-23,Rocha dos Dourados,MG,Bronze,luna28@example.net
+941.723.506-07,Lorenzo Gomes,1962-05-21,Casa Grande,AL,Prata,lorenamoreira@example.com
+951.267.048-85,Maysa Câmara,2000-12-14,da Paz,GO,Bronze,da-conceicaoagatha@example.org
+132.046.958-24,Léo Costela,1959-11-20,Siqueira dos Dourados,PE,Ouro,mariada-rocha@example.org
+176.320.984-96,Sr. Henry Siqueira,1945-10-06,Castro do Galho,MT,Prata,maria81@example.net
+506.894.273-10,Alexia da Cruz,1950-01-08,Câmara do Oeste,GO,Prata,fcassiano@example.org
+742.150.683-71,Samuel Novais,1982-04-19,Santos,CE,Bronze,leaovinicius@example.net
+635.841.207-80,Raquel Mendonça,1994-12-04,Peixoto da Praia,PI,Ouro,gda-rocha@example.org
+146.329.705-06,Luiza Ribeiro,1948-06-06,Sampaio das Flores,RR,Prata,maria-sophiamendonca@example.net
+630.294.187-31,Luna da Luz,1986-08-21,Jesus das Flores,SE,Ouro,zlima@example.com
+047.512.968-76,Hellena Oliveira,2000-04-16,Nascimento,DF,Prata,pimentabella@example.org
+980.573.621-03,Sr. Benicio Moreira,1955-01-11,Nascimento do Oeste,CE,Prata,osilva@example.com
+258.314.709-97,Vinicius Caldeira,1974-10-31,Vieira do Amparo,AL,Prata,alexiada-rosa@example.org
+390.257.861-03,João Gabriel Barros,1945-11-30,Montenegro,SC,Bronze,aalmeida@example.net
+821.543.796-64,Dr. Théo Souza,1942-04-20,da Mota dos Dourados,DF,Bronze,da-luzmaria-julia@example.com
+461.739.285-82,Dra. Sofia da Cruz,1966-09-23,Monteiro,SC,Ouro,wfreitas@example.net
+173.408.962-87,Bianca Ramos,1961-11-04,Casa Grande de Minas,AM,Prata,olivermendonca@example.net
+312.946.805-60,Noah das Neves,1991-02-05,Cassiano do Norte,MT,Ouro,rabreu@example.net
+387.492.156-55,Sra. Sophie Novais,1999-02-19,Caldeira,PA,Prata,garciajose-miguel@example.org
+281.763.045-90,Eloá Pires,1995-05-12,Carvalho de Souza,PI,Bronze,aguerra@example.com
+164.582.739-91,Eloah Casa Grande,1960-06-14,Pimenta,RR,Prata,rafaela94@example.com
+735.961.428-73,Liam Leão,1952-11-25,Melo,AP,Bronze,das-nevesmarcos-vinicius@example.org
+187.205.364-53,Luiz Fernando Porto,1978-10-03,Ferreira,RS,Bronze,correiayan@example.com
+645.832.109-06,Henrique da Mota,1952-11-03,Nunes do Campo,BA,Prata,kfarias@example.net
+947.160.582-20,Clara Casa Grande,1951-12-03,Abreu de Duarte,AP,Bronze,carvalhonina@example.com
+675.240.193-43,Maria Isis Santos,1972-12-29,das Neves do Galho,MT,Ouro,pereirapaulo@example.org
+426.935.870-00,Maya Rezende,1964-05-26,Alves,MS,Bronze,qvargas@example.com
+638.721.094-13,Sr. André Pastor,1961-10-29,Brito da Praia,GO,Ouro,pereirayago@example.org
+476.052.938-10,Ana Silva,2003-10-29,Pereira de Pires,PB,Prata,ecavalcanti@example.net
+810.274.965-20,Bryan Leão,1997-06-18,Araújo,PB,Ouro,diasgael@example.net
+430.256.198-05,Alice Rios,1968-02-21,Rios do Norte,AP,Bronze,melissacasa-grande@example.net
+412.307.896-69,Alexandre das Neves,1959-05-03,Campos Alegre,PB,Prata,nunesmaria-fernanda@example.org
+192.508.736-03,Anthony Cunha,1984-02-13,Marques de Minas,SC,Prata,ana-lizrodrigues@example.net
+324.098.156-42,Luara Jesus,1956-01-31,da Mata,DF,Prata,ana-carolinada-luz@example.net
+741.328.596-73,Eloá Andrade,2005-05-01,Cassiano da Prata,RJ,Ouro,luaraferreira@example.net
+435.796.208-00,Henrique Martins,1958-06-16,Camargo,PE,Ouro,maria-lauracarvalho@example.com
+958.436.017-57,Maria Alice Albuquerque,1951-07-05,Melo Alegre,MT,Bronze,cirinoelisa@example.com
+279.603.481-03,Sra. Olívia da Cruz,1957-11-22,Peixoto Alegre,PR,Prata,cda-rosa@example.org
+816.324.750-90,Théo Cavalcante,2003-06-22,Peixoto do Galho,DF,Prata,jose-pedroribeiro@example.com
+014.682.359-15,Agatha Ribeiro,1950-09-28,Cavalcanti,MA,Prata,enrico23@example.org
+613.854.209-60,Luiz Felipe Brito,1972-09-28,Sampaio do Oeste,PR,Ouro,tmartins@example.org
+162.793.854-00,Maria Júlia Nascimento,1945-08-01,Mendonça Verde,AC,Bronze,luiz-henriquevargas@example.org
+598.406.372-74,Theo Correia,1943-09-19,da Rosa,PA,Bronze,fernandeshadassa@example.net
+269.783.401-03,Emanuelly Castro,1967-10-21,Martins,SE,Prata,ferreiraguilherme@example.net
+602.714.395-99,Ryan Rezende,2006-01-10,Lima do Norte,MA,Bronze,vda-luz@example.net
+175.632.408-53,Yasmin Teixeira,1966-10-20,Cassiano,AC,Bronze,valentim38@example.net
+760.329.415-07,Sr. Léo da Cunha,1969-09-03,Rocha da Mata,SP,Bronze,nogueiravitor@example.org
+456.032.987-74,Brenda Fogaça,1990-07-06,Nascimento,SC,Bronze,lda-cruz@example.org
+812.593.467-73,Isabelly Siqueira,1996-07-16,Aparecida de Barbosa,MT,Prata,breno29@example.net
+169.258.370-03,José Miguel Silveira,1985-02-18,Lopes,AM,Prata,vicenteda-rosa@example.net
+893.502.761-86,Francisco da Mota,1974-11-02,Pereira,MG,Bronze,aliceda-mata@example.org
+630.981.245-98,Luiza Brito,1955-10-08,Almeida,RR,Bronze,pedro-miguel19@example.com
+976.542.310-16,Dr. Liam Ferreira,1996-09-07,Cassiano de Martins,SC,Prata,icostela@example.net
+264.307.591-99,Manuella Barros,1954-10-30,da Rosa da Mata,SP,Prata,marcela70@example.org
+925.437.018-50,Marcos Vinicius Nascimento,1949-09-01,Pereira do Campo,AM,Prata,ncunha@example.org
+942.613.850-15,Lara Dias,1993-02-19,Pires do Campo,RO,Prata,milena88@example.com
+367.892.504-92,Laura Abreu,1976-12-14,Teixeira dos Dourados,RS,Ouro,gael-henriquegomes@example.net
+698.150.742-02,Maria Luísa Almeida,1962-10-28,Cavalcante,RJ,Ouro,frodrigues@example.com
+063.817.249-78,Ravy Silva,2003-05-29,Duarte,BA,Prata,davi-lucca03@example.net
+793.548.106-75,Brenda Pereira,1997-09-21,Castro de Goiás,PB,Prata,abreubenicio@example.net
+687.930.514-84,Dra. Yasmin Silva,1942-04-27,Mendes de Silveira,AL,Ouro,isabella05@example.com
+876.905.134-84,Srta. Maria Clara Jesus,1985-05-20,Casa Grande de Goiás,SE,Prata,qcostela@example.org
+517.938.246-73,Sra. Luísa Viana,1971-05-10,Nunes Paulista,RN,Prata,teixeirajoao-lucas@example.org
+840.129.536-05,Emanuel Nunes,1983-11-04,Melo dos Dourados,RO,Prata,leonardo22@example.net
+469.510.823-24,Anthony Gabriel da Luz,1965-06-27,Mendes da Serra,MS,Ouro,melissadias@example.net
+567.914.308-93,Alice Rios,2005-02-22,Fernandes,ES,Ouro,noah32@example.com
+913.275.064-16,Srta. Maria Clara Rios,1942-12-10,Pires do Campo,MT,Bronze,da-matasophie@example.net
+810.345.976-39,Srta. Isabelly da Conceição,1987-08-21,Cavalcanti de Aparecida,RN,Bronze,agatha13@example.net
+124.095.783-14,Beatriz Nascimento,2000-09-13,Dias,SE,Bronze,costamaria-liz@example.org
+719.804.623-13,Anthony Pacheco,1969-12-13,Silveira,PB,Prata,maria-aliceabreu@example.com
+647.512.389-73,Letícia da Luz,1999-09-21,Fernandes,GO,Prata,lunna12@example.com
+057.318.942-05,Pedro Miguel Fernandes,1984-02-11,Correia,SP,Bronze,teixeiraravi@example.org
+489.273.061-04,Giovanna Oliveira,1986-06-05,Duarte,CE,Bronze,isabelaviana@example.org
+295.436.781-46,João Melo,2004-04-14,Freitas Grande,MA,Prata,daniela57@example.com
+698.037.514-84,Kamilly Almeida,1996-05-28,Costela,RO,Prata,ana-beatriz50@example.com
+695.481.723-64,Cauê Barbosa,1957-04-02,Duarte,SC,Ouro,lsilveira@example.com
+067.124.395-07,Luigi da Mota,1977-04-23,Macedo da Mata,AM,Prata,vcarvalho@example.org
+562.814.730-35,Aurora Macedo,1957-05-24,Oliveira da Prata,SP,Prata,sofia40@example.org
+158.639.472-09,Raul Fonseca,1963-05-15,Rocha,RR,Bronze,thomas90@example.org
+168.370.429-04,Pedro Henrique Andrade,2006-01-07,Vieira da Prata,PR,Bronze,brenda11@example.net
+189.476.025-58,Esther Sá,1945-09-05,da Mota dos Dourados,PB,Prata,biancabarbosa@example.org
+957.483.012-88,Mathias Almeida,1941-04-15,Duarte,PA,Bronze,valentimcamara@example.net
+587.961.230-95,Diogo Costela,1961-09-12,Brito,AC,Bronze,vasconcelosjose-miguel@example.net
+519.628.403-60,Otávio da Mata,1956-07-23,Vargas,MS,Bronze,carvalholunna@example.org
+607.951.384-66,Maria Liz Costa,1954-09-13,Pastor do Campo,AP,Ouro,nataliapacheco@example.net
+812.690.375-95,Sra. Maria Vitória Correia,1955-01-07,Montenegro,MS,Ouro,gda-cunha@example.org
+708.365.912-59,Benício Lopes,2005-01-28,da Conceição de Minas,RS,Prata,bmelo@example.com
+502.619.837-68,Ravy Teixeira,1943-05-12,Peixoto,SE,Ouro,ana-beatrizfreitas@example.net
+629.174.580-11,Sr. Enrico Alves,1974-07-25,das Neves,MG,Ouro,vinicius95@example.org
+059.371.684-10,Valentina Cavalcante,1951-06-21,Albuquerque,MS,Prata,franciscoleao@example.org
+178.346.920-03,Renan Melo,2001-12-02,Cardoso Alegre,RO,Bronze,gael77@example.net
+932.146.507-34,Srta. Maria Luiza da Paz,2001-01-22,da Cruz,ES,Bronze,leo45@example.net
+784.612.350-53,Ana Beatriz Souza,2002-05-12,Pires do Norte,SE,Ouro,luiz-otavioalbuquerque@example.org
+032.879.615-86,Nathan Machado,2008-04-04,Marques,RN,Prata,zoe71@example.net
+485.216.973-09,Aylla Rios,1998-12-21,Teixeira do Galho,GO,Prata,vianaemanuelly@example.com
+082.913.645-24,Luiz Felipe das Neves,1971-07-03,Novaes de Minas,PE,Ouro,isabellamoraes@example.org
+230.159.647-80,Maria Cecília Nogueira,1956-05-21,Freitas,CE,Bronze,rodrigueslucas@example.net
+932.468.150-89,Laís Gomes,2002-01-06,Melo dos Dourados,MT,Prata,ana-claraabreu@example.org
+489.157.036-93,Diego Mendes,1996-09-02,Teixeira,SE,Prata,heloisaviana@example.org
+693.120.874-87,Camila Silveira,1991-01-15,Costela,PB,Prata,yuriteixeira@example.com
+014.796.358-39,Davi Nogueira,1991-04-06,Cassiano de Barbosa,SP,Bronze,yago06@example.com
+176.493.208-04,Luiz Miguel da Costa,1999-11-13,Sampaio de Lopes,PA,Bronze,portogustavo-henrique@example.com
+495.372.806-83,Ryan da Cruz,1980-07-26,Câmara de Pastor,PA,Bronze,gustavo-henrique78@example.net
+968.047.523-92,Isaque Fonseca,1980-03-08,Gonçalves do Norte,MS,Prata,kmarques@example.net
+068.591.473-93,João Vitor Jesus,1995-04-11,Siqueira,PB,Ouro,elisa55@example.org
+470.236.185-62,Sra. Marcela Vasconcelos,1996-03-13,Monteiro,AP,Bronze,clarice98@example.net
+354.086.912-33,Ester Sá,1966-09-30,da Luz,RR,Prata,vferreira@example.com
+528.709.163-02,Laís Sá,1978-10-22,Gonçalves,RN,Bronze,costafrancisco@example.org
+964.152.780-02,Bella Sousa,1996-02-20,Pimenta Verde,AP,Ouro,rael70@example.org
+824.031.769-31,Helena Casa Grande,1941-07-20,da Cruz do Sul,RN,Ouro,amacedo@example.net
+836.145.927-82,Sra. Maria Clara da Luz,1970-01-21,Fonseca de Goiás,MT,Prata,eduardo25@example.net
+382.049.765-00,Sra. Heloisa Martins,1959-01-08,Marques,RN,Prata,lmonteiro@example.com
+120.436.798-13,Srta. Ana Luiza Rodrigues,1964-10-27,Silveira,GO,Bronze,benjamin97@example.com
+263.579.410-34,Sophia Jesus,1950-07-09,Abreu do Norte,RR,Bronze,isaque19@example.org
+862.519.407-94,Sabrina Siqueira,1948-11-02,Borges do Campo,MG,Ouro,yjesus@example.net
+725.108.496-11,Theo Borges,1953-04-07,Guerra do Oeste,ES,Prata,enrico57@example.org
+840.976.521-76,Enzo Gabriel Abreu,2006-04-12,Abreu,MT,Prata,bdas-neves@example.net
+951.764.302-07,Sr. Eduardo Peixoto,1966-03-03,Macedo,RR,Ouro,nataliacassiano@example.com
+091.625.873-40,Stella Cavalcante,2001-12-19,Monteiro,DF,Prata,barbaramarques@example.net
+867.054.913-10,Sr. Isaque Mendonça,1953-07-10,Aparecida da Praia,AL,Prata,tribeiro@example.net
+189.562.340-51,Lorenzo Carvalho,1971-03-09,da Rocha,RS,Prata,bguerra@example.com
+170.382.649-31,Theo Viana,1993-02-25,Vargas do Norte,PE,Bronze,correiafelipe@example.com
+982.570.431-41,Esther Fogaça,2006-04-27,Rodrigues,PA,Prata,nicolefreitas@example.net
+031.875.296-40,Gabrielly Oliveira,1984-04-14,Aparecida,MG,Ouro,igorda-rocha@example.org
+352.917.604-43,Josué Pinto,1986-03-14,Lima Verde,RR,Prata,nicolas46@example.net
+068.321.749-69,Maria Laura Aparecida,1988-01-26,Cardoso de Ribeiro,RR,Ouro,diegoporto@example.org
+127.094.865-20,Maria Laura da Paz,1977-03-13,da Paz Verde,GO,Bronze,teixeiraisaque@example.com
+317.864.052-53,Daniel da Conceição,1943-04-18,Cirino de Minas,SP,Prata,da-costaluiza@example.net
+572.340.196-34,Anthony Gabriel Cassiano,1963-12-08,Cavalcanti da Praia,PB,Ouro,danielgoncalves@example.com
+241.765.938-73,Pedro Lucas Azevedo,1998-02-06,Pereira,PE,Prata,lorenzo28@example.com
+018.345.926-15,Sra. Maria Eduarda Andrade,1950-06-21,Rodrigues,ES,Prata,garciaandre@example.net
+061.879.435-20,Maria Isis da Paz,1987-05-12,Machado de Goiás,RO,Bronze,qpimenta@example.com
+792.348.106-78,Emanuella Gomes,2008-09-11,Castro da Praia,SC,Ouro,lopesana-clara@example.org
+076.541.398-10,Nathan Leão,2000-11-01,Marques dos Dourados,PB,Prata,xmartins@example.com
+562.941.807-67,Evelyn Siqueira,1985-07-28,Martins da Prata,SP,Bronze,pfreitas@example.com
+362.904.817-03,Guilherme Cunha,1963-09-08,Ribeiro,MG,Bronze,ccirino@example.org
+362.754.189-82,Fernanda Cassiano,1968-09-10,Martins de Goiás,SC,Prata,mariahdias@example.net
+980.576.432-00,Lucas Borges,1962-01-09,Costa Grande,DF,Prata,davi-lucca59@example.com
+978.251.640-67,Eduarda Cassiano,1951-10-25,Campos da Prata,RN,Bronze,jcastro@example.net
+743.051.962-80,Mateus Melo,1966-07-10,Cavalcante de Vargas,AC,Ouro,lunna99@example.org
+709.542.681-30,Felipe Carvalho,1983-03-04,Rocha das Flores,BA,Ouro,vieiramatteo@example.net
+541.283.067-62,Luiz Otávio da Cunha,1953-10-09,Moreira do Sul,PR,Prata,lucas-gabriel03@example.net
+497.320.561-34,Anna Liz Farias,1978-03-21,Cardoso,RN,Bronze,sousaarthur-miguel@example.com
+637.890.251-86,Dr. Théo Viana,1969-08-05,Santos Alegre,BA,Ouro,vicente83@example.com
+491.350.268-98,Davi Lucas Teixeira,1947-12-28,Barbosa,CE,Prata,davi-lucca29@example.org
+190.572.638-40,Luísa Viana,1985-12-15,Pimenta,AM,Prata,santosjoao-lucas@example.org
+129.506.384-06,Benicio Silva,1946-02-09,Duarte do Galho,DF,Prata,tcosta@example.com
+927.854.013-79,Alana Barros,1952-09-02,da Luz,BA,Bronze,josuesampaio@example.org
+325.617.984-37,Maria Sophia Montenegro,1984-04-19,Cunha das Pedras,GO,Ouro,rodrigo80@example.net
+492.065.318-24,Marina Barros,1986-07-29,Albuquerque de Souza,RO,Ouro,diaseloa@example.net
+914.523.678-09,Dr. Kaique Teixeira,1973-12-27,Nogueira do Oeste,ES,Bronze,bryansales@example.com
+678.235.410-17,Matheus Leão,2005-04-30,Carvalho,SE,Prata,giovanna26@example.com
+062.148.597-76,Olivia Cassiano,1959-02-21,Costa do Sul,PR,Prata,tcastro@example.net
+438.796.510-00,Ana Liz Fogaça,2006-02-17,Azevedo,MT,Ouro,spereira@example.org
+387.619.405-93,Eduarda Fernandes,1983-08-11,Rodrigues das Pedras,RN,Prata,peixotojose-pedro@example.net
+458.671.239-28,Antony Machado,1965-11-19,da Cruz do Oeste,MT,Ouro,ana-sophiaporto@example.com
+485.921.630-05,Dra. Isabela da Cruz,1973-12-14,Almeida de Dias,PE,Ouro,gomesjuan@example.net
+517.342.089-88,João Guilherme Silva,1950-06-11,Vasconcelos do Norte,PR,Bronze,pietroporto@example.org
+597.412.683-19,Zoe Costa,1996-10-15,Peixoto,RN,Ouro,da-rochadavi@example.net
+384.195.062-06,Diego da Rocha,1942-06-05,Rezende,RS,Prata,xbarros@example.com
+276.418.350-07,Rafael da Mota,1954-03-01,da Paz de Castro,RJ,Ouro,aylaalmeida@example.org
+057.216.349-52,Maya Ramos,1962-09-30,Cavalcanti Alegre,RN,Prata,ramosalexia@example.com
+908.561.372-86,Dom Caldeira,1976-04-12,Silva,ES,Ouro,saeloah@example.com

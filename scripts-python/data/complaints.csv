@@ -1,0 +1,223 @@
+id,request_id,servico_slug,data,motivo,resolvida
+1,27,cnh-digital,2025-11-23,Verificação facial não reconhece o rosto,True
+2,28,consultar-restituicao,2026-06-07,Valor divergente do esperado,True
+3,35,passaporte,2025-11-07,Atendimento demorou mais que o previsto,True
+4,39,entregar-imposto-renda,2026-07-26,Dificuldade para preencher os rendimentos,True
+5,40,carteira-trabalho,2025-09-30,Verificação facial não reconhece o rosto,True
+6,43,assinatura-eletronica,2026-09-07,Notificação de status não chegou,False
+7,45,cnh-digital,2026-04-02,Erro ao anexar arquivos,False
+8,47,passaporte,2026-09-03,Demora para conseguir horário de atendimento,True
+9,50,carteira-trabalho,2025-10-16,Verificação facial não reconhece o rosto,True
+10,65,carteira-trabalho,2025-09-22,Verificação facial não reconhece o rosto,True
+11,76,carteira-trabalho,2025-10-10,Verificação facial não reconhece o rosto,True
+12,91,assinatura-eletronica,2026-07-28,Arquivo PDF inválido ou corrompido,True
+13,97,carteira-trabalho,2025-10-13,Verificação facial não reconhece o rosto,True
+14,106,passaporte,2026-06-12,Falta de clareza nas instruções,True
+15,129,cnh-digital,2026-04-22,Verificação facial não reconhece o rosto,True
+16,139,carteira-trabalho,2026-07-02,Verificação facial não reconhece o rosto,True
+17,147,carteira-trabalho,2025-12-30,Verificação facial não reconhece o rosto,True
+18,169,carteira-trabalho,2026-08-25,Documento pedido não estava na lista de requisitos,True
+19,173,cnh-digital,2025-11-01,Aplicativo travou durante o preenchimento,True
+20,178,passaporte,2026-09-08,Demora para conseguir horário de atendimento,False
+21,187,carteira-trabalho,2026-05-15,Verificação facial não reconhece o rosto,True
+22,192,passaporte,2026-01-31,Documento pedido não estava na lista de requisitos,False
+23,196,carteira-trabalho,2026-06-28,Documento pedido não estava na lista de requisitos,True
+24,205,cnh-digital,2026-08-03,Falta de clareza nas instruções,True
+25,212,cnh-digital,2026-02-18,Verificação facial não reconhece o rosto,True
+26,213,cnh-digital,2025-10-05,Verificação facial não reconhece o rosto,True
+27,219,assinatura-eletronica,2026-02-11,Arquivo PDF inválido ou corrompido,True
+28,223,passaporte,2025-12-13,Documento pedido não estava na lista de requisitos,False
+29,225,cnh-digital,2026-03-24,Notificação de status não chegou,True
+30,251,passaporte,2025-10-21,Demora para conseguir horário de atendimento,True
+31,262,cnh-digital,2026-02-06,Verificação facial não reconhece o rosto,True
+32,264,passaporte,2026-05-04,Falta de clareza nas instruções,True
+33,268,consultar-imposto-renda,2025-09-29,Lentidão no sistema em época de pico,True
+34,270,cnh-digital,2026-01-29,Verificação facial não reconhece o rosto,True
+35,309,carteira-trabalho,2026-02-28,Verificação facial não reconhece o rosto,True
+36,313,consultar-restituicao,2025-12-18,Notificação de status não chegou,False
+37,315,consultar-imposto-renda,2026-06-08,Notificação de status não chegou,True
+38,333,carteira-trabalho,2026-03-17,Verificação facial não reconhece o rosto,True
+39,337,consultar-restituicao,2026-09-14,Valor divergente do esperado,True
+40,340,passaporte,2026-02-11,Atendimento demorou mais que o previsto,True
+41,356,carteira-trabalho,2026-08-25,Verificação facial não reconhece o rosto,False
+42,359,cnh-digital,2026-04-02,Verificação facial não reconhece o rosto,True
+43,381,passaporte,2025-11-25,Atendimento demorou mais que o previsto,True
+44,392,entregar-imposto-renda,2026-07-17,Erro ao anexar arquivos,True
+45,418,carteira-trabalho,2026-06-19,Verificação facial não reconhece o rosto,False
+46,435,passaporte,2026-08-05,Demora para conseguir horário de atendimento,True
+47,440,carteira-trabalho,2026-03-05,Verificação facial não reconhece o rosto,False
+48,453,entregar-imposto-renda,2025-09-27,Dificuldade para preencher os rendimentos,False
+49,454,cnh-digital,2026-04-17,Verificação facial não reconhece o rosto,True
+50,462,carteira-trabalho,2025-12-09,Erro ao anexar arquivos,True
+51,465,cnh-digital,2026-02-22,Falta de clareza nas instruções,False
+52,468,cnh-digital,2026-05-28,Aplicativo travou durante o preenchimento,True
+53,472,cnh-digital,2025-10-14,Verificação facial não reconhece o rosto,False
+54,478,carteira-trabalho,2026-06-21,Falta de clareza nas instruções,False
+55,484,consultar-restituicao,2026-07-08,Valor divergente do esperado,True
+56,513,carteira-trabalho,2026-03-01,Documento pedido não estava na lista de requisitos,False
+57,514,assinatura-eletronica,2025-09-28,Arquivo PDF inválido ou corrompido,False
+58,517,carteira-trabalho,2026-07-13,Verificação facial não reconhece o rosto,True
+59,519,entregar-imposto-renda,2025-11-23,Dificuldade para preencher os rendimentos,True
+60,527,passaporte,2026-08-03,Notificação de status não chegou,True
+61,541,passaporte,2026-02-19,Demora para conseguir horário de atendimento,True
+62,545,carteira-trabalho,2026-02-10,Verificação facial não reconhece o rosto,False
+63,550,carteira-trabalho,2025-09-23,Verificação facial não reconhece o rosto,False
+64,556,passaporte,2026-05-10,Demora para conseguir horário de atendimento,True
+65,564,passaporte,2026-05-09,Atendimento demorou mais que o previsto,False
+66,582,entregar-imposto-renda,2026-08-23,Notificação de status não chegou,False
+67,596,passaporte,2026-05-20,Notificação de status não chegou,False
+68,597,cnh-digital,2026-07-09,Aplicativo travou durante o preenchimento,True
+69,612,passaporte,2025-10-14,Demora para conseguir horário de atendimento,False
+70,613,cnh-digital,2026-02-21,Notificação de status não chegou,True
+71,634,carteira-trabalho,2025-11-11,Verificação facial não reconhece o rosto,False
+72,649,carteira-trabalho,2026-06-14,Atendimento demorou mais que o previsto,True
+73,651,cnh-digital,2026-03-18,Verificação facial não reconhece o rosto,False
+74,652,carteira-trabalho,2025-11-04,Verificação facial não reconhece o rosto,True
+75,672,passaporte,2025-10-19,Documento pedido não estava na lista de requisitos,True
+76,717,carteira-trabalho,2026-07-29,Verificação facial não reconhece o rosto,False
+77,719,cnh-digital,2025-10-24,Atendimento demorou mais que o previsto,True
+78,726,passaporte,2026-06-16,Documento pedido não estava na lista de requisitos,False
+79,741,cnh-digital,2026-05-23,Verificação facial não reconhece o rosto,True
+80,756,passaporte,2026-01-15,Demora para conseguir horário de atendimento,True
+81,762,passaporte,2025-12-17,Erro ao anexar arquivos,True
+82,770,carteira-trabalho,2025-09-30,Aplicativo travou durante o preenchimento,True
+83,786,cnh-digital,2026-08-21,Verificação facial não reconhece o rosto,True
+84,811,carteira-trabalho,2025-12-24,Verificação facial não reconhece o rosto,False
+85,813,passaporte,2026-06-04,Demora para conseguir horário de atendimento,True
+86,828,cnh-digital,2026-07-31,Verificação facial não reconhece o rosto,True
+87,876,passaporte,2025-11-14,Demora para conseguir horário de atendimento,True
+88,885,passaporte,2025-10-26,Demora para conseguir horário de atendimento,False
+89,896,consultar-imposto-renda,2025-11-17,Erro ao anexar arquivos,True
+90,898,carteira-trabalho,2025-10-22,Verificação facial não reconhece o rosto,True
+91,909,carteira-trabalho,2026-08-11,Verificação facial não reconhece o rosto,True
+92,921,passaporte,2026-07-15,Demora para conseguir horário de atendimento,True
+93,949,carteira-trabalho,2026-02-21,Documento pedido não estava na lista de requisitos,True
+94,951,passaporte,2025-11-19,Demora para conseguir horário de atendimento,False
+95,958,carteira-trabalho,2026-06-14,Aplicativo travou durante o preenchimento,True
+96,960,passaporte,2025-11-28,Atendimento demorou mais que o previsto,True
+97,983,passaporte,2026-01-20,Demora para conseguir horário de atendimento,True
+98,984,cnh-digital,2025-10-12,Falta de clareza nas instruções,True
+99,988,carteira-trabalho,2026-04-25,Erro ao anexar arquivos,False
+100,993,cnh-digital,2026-02-13,Verificação facial não reconhece o rosto,True
+101,994,passaporte,2026-04-17,Demora para conseguir horário de atendimento,True
+102,1026,passaporte,2026-06-17,Erro ao anexar arquivos,False
+103,1030,assinatura-eletronica,2026-02-01,Documento pedido não estava na lista de requisitos,True
+104,1031,cnh-digital,2026-08-13,Verificação facial não reconhece o rosto,True
+105,1033,assinatura-eletronica,2026-02-21,Atendimento demorou mais que o previsto,True
+106,1039,cnh-digital,2026-07-13,Verificação facial não reconhece o rosto,True
+107,1042,passaporte,2025-12-31,Demora para conseguir horário de atendimento,True
+108,1049,cnh-digital,2026-08-17,Aplicativo travou durante o preenchimento,False
+109,1059,carteira-trabalho,2026-07-31,Verificação facial não reconhece o rosto,True
+110,1067,carteira-trabalho,2026-04-19,Atendimento demorou mais que o previsto,False
+111,1076,carteira-trabalho,2025-10-14,Verificação facial não reconhece o rosto,True
+112,1083,entregar-imposto-renda,2025-10-14,Dificuldade para preencher os rendimentos,True
+113,1084,cnh-digital,2026-05-11,Verificação facial não reconhece o rosto,True
+114,1085,carteira-trabalho,2026-05-21,Erro ao anexar arquivos,True
+115,1086,entregar-imposto-renda,2026-04-17,Notificação de status não chegou,False
+116,1096,entregar-imposto-renda,2025-11-26,Falta de clareza nas instruções,True
+117,1099,carteira-trabalho,2026-02-12,Verificação facial não reconhece o rosto,True
+118,1108,consultar-imposto-renda,2026-03-22,Lentidão no sistema em época de pico,True
+119,1109,assinatura-eletronica,2026-05-13,Arquivo PDF inválido ou corrompido,True
+120,1128,cnh-digital,2026-04-02,Verificação facial não reconhece o rosto,False
+121,1129,carteira-trabalho,2026-07-31,Falta de clareza nas instruções,True
+122,1132,passaporte,2026-03-17,Demora para conseguir horário de atendimento,False
+123,1139,carteira-trabalho,2026-04-19,Verificação facial não reconhece o rosto,True
+124,1147,cnh-digital,2026-04-17,Verificação facial não reconhece o rosto,True
+125,1165,entregar-imposto-renda,2026-01-10,Dificuldade para preencher os rendimentos,True
+126,1166,cnh-digital,2026-05-30,Documento pedido não estava na lista de requisitos,True
+127,1169,cnh-digital,2026-05-05,Atendimento demorou mais que o previsto,True
+128,1178,cnh-digital,2026-02-20,Verificação facial não reconhece o rosto,False
+129,1182,carteira-trabalho,2025-10-31,Verificação facial não reconhece o rosto,True
+130,1193,consultar-imposto-renda,2025-12-03,Lentidão no sistema em época de pico,True
+131,1195,carteira-trabalho,2025-11-28,Notificação de status não chegou,True
+132,1199,cnh-digital,2025-10-24,Verificação facial não reconhece o rosto,True
+133,1212,passaporte,2025-09-20,Demora para conseguir horário de atendimento,False
+134,1230,carteira-trabalho,2026-08-26,Falta de clareza nas instruções,False
+135,1232,cnh-digital,2026-03-19,Verificação facial não reconhece o rosto,True
+136,1238,passaporte,2026-09-14,Demora para conseguir horário de atendimento,True
+137,1249,carteira-trabalho,2026-05-21,Verificação facial não reconhece o rosto,True
+138,1323,passaporte,2026-05-16,Atendimento demorou mais que o previsto,True
+139,1325,entregar-imposto-renda,2025-11-10,Dificuldade para preencher os rendimentos,True
+140,1343,entregar-imposto-renda,2026-06-09,Dificuldade para preencher os rendimentos,True
+141,1344,consultar-imposto-renda,2026-06-10,Lentidão no sistema em época de pico,False
+142,1352,assinatura-eletronica,2025-10-30,Arquivo PDF inválido ou corrompido,True
+143,1356,carteira-trabalho,2026-05-18,Verificação facial não reconhece o rosto,False
+144,1359,passaporte,2026-04-10,Demora para conseguir horário de atendimento,True
+145,1370,entregar-imposto-renda,2026-02-08,Notificação de status não chegou,False
+146,1386,carteira-trabalho,2026-07-23,Verificação facial não reconhece o rosto,True
+147,1393,passaporte,2026-02-05,Falta de clareza nas instruções,True
+148,1396,cnh-digital,2026-09-11,Documento pedido não estava na lista de requisitos,True
+149,1398,consultar-restituicao,2026-03-29,Atendimento demorou mais que o previsto,True
+150,1401,cnh-digital,2026-02-26,Documento pedido não estava na lista de requisitos,False
+151,1405,passaporte,2025-11-08,Demora para conseguir horário de atendimento,False
+152,1410,consultar-restituicao,2025-10-16,Valor divergente do esperado,True
+153,1412,passaporte,2026-05-10,Demora para conseguir horário de atendimento,True
+154,1437,consultar-imposto-renda,2026-03-07,Lentidão no sistema em época de pico,True
+155,1438,cnh-digital,2026-01-22,Aplicativo travou durante o preenchimento,False
+156,1449,passaporte,2026-08-23,Demora para conseguir horário de atendimento,True
+157,1472,cnh-digital,2026-04-11,Verificação facial não reconhece o rosto,True
+158,1478,carteira-trabalho,2026-01-29,Erro ao anexar arquivos,True
+159,1494,passaporte,2026-04-05,Demora para conseguir horário de atendimento,True
+160,1499,consultar-imposto-renda,2026-07-19,Lentidão no sistema em época de pico,True
+161,1514,passaporte,2026-03-25,Demora para conseguir horário de atendimento,True
+162,1530,passaporte,2025-10-02,Demora para conseguir horário de atendimento,True
+163,1536,passaporte,2026-07-08,Atendimento demorou mais que o previsto,True
+164,1542,carteira-trabalho,2026-06-06,Aplicativo travou durante o preenchimento,True
+165,1544,cnh-digital,2025-12-15,Verificação facial não reconhece o rosto,True
+166,1548,entregar-imposto-renda,2026-03-31,Erro ao anexar arquivos,True
+167,1551,entregar-imposto-renda,2026-01-04,Dificuldade para preencher os rendimentos,False
+168,1565,passaporte,2026-07-22,Erro ao anexar arquivos,False
+169,1582,entregar-imposto-renda,2025-09-23,Dificuldade para preencher os rendimentos,False
+170,1587,entregar-imposto-renda,2025-11-08,Dificuldade para preencher os rendimentos,False
+171,1588,entregar-imposto-renda,2026-03-14,Notificação de status não chegou,True
+172,1591,cnh-digital,2025-12-13,Verificação facial não reconhece o rosto,False
+173,1593,entregar-imposto-renda,2026-06-20,Dificuldade para preencher os rendimentos,True
+174,1605,consultar-restituicao,2025-10-23,Valor divergente do esperado,False
+175,1614,entregar-imposto-renda,2026-04-08,Dificuldade para preencher os rendimentos,True
+176,1620,cnh-digital,2026-07-13,Verificação facial não reconhece o rosto,True
+177,1630,carteira-trabalho,2026-05-04,Verificação facial não reconhece o rosto,True
+178,1653,entregar-imposto-renda,2026-07-06,Dificuldade para preencher os rendimentos,True
+179,1659,passaporte,2025-10-29,Demora para conseguir horário de atendimento,True
+180,1674,cnh-digital,2026-04-15,Verificação facial não reconhece o rosto,False
+181,1679,passaporte,2026-04-30,Demora para conseguir horário de atendimento,True
+182,1686,cnh-digital,2025-12-19,Verificação facial não reconhece o rosto,True
+183,1687,carteira-trabalho,2025-12-31,Notificação de status não chegou,True
+184,1700,carteira-trabalho,2026-01-17,Verificação facial não reconhece o rosto,False
+185,1702,passaporte,2026-01-15,Falta de clareza nas instruções,True
+186,1706,consultar-imposto-renda,2026-03-27,Lentidão no sistema em época de pico,True
+187,1733,passaporte,2025-11-22,Demora para conseguir horário de atendimento,False
+188,1736,carteira-trabalho,2026-09-12,Verificação facial não reconhece o rosto,True
+189,1763,entregar-imposto-renda,2026-06-14,Dificuldade para preencher os rendimentos,True
+190,1771,entregar-imposto-renda,2026-03-30,Notificação de status não chegou,False
+191,1772,passaporte,2026-06-07,Atendimento demorou mais que o previsto,True
+192,1777,cnh-digital,2026-04-15,Erro ao anexar arquivos,False
+193,1789,carteira-trabalho,2025-12-12,Verificação facial não reconhece o rosto,True
+194,1796,passaporte,2026-04-14,Demora para conseguir horário de atendimento,True
+195,1797,cnh-digital,2026-05-31,Verificação facial não reconhece o rosto,True
+196,1798,entregar-imposto-renda,2026-08-21,Falta de clareza nas instruções,True
+197,1799,carteira-trabalho,2026-04-20,Verificação facial não reconhece o rosto,True
+198,1814,carteira-trabalho,2026-08-10,Erro ao anexar arquivos,True
+199,1824,assinatura-eletronica,2026-03-15,Arquivo PDF inválido ou corrompido,True
+200,1825,cnh-digital,2026-02-04,Verificação facial não reconhece o rosto,False
+201,1841,cnh-digital,2026-07-05,Verificação facial não reconhece o rosto,True
+202,1843,cnh-digital,2026-05-26,Verificação facial não reconhece o rosto,False
+203,1866,carteira-trabalho,2026-02-27,Verificação facial não reconhece o rosto,True
+204,1879,cnh-digital,2025-11-13,Verificação facial não reconhece o rosto,True
+205,1886,entregar-imposto-renda,2026-07-30,Notificação de status não chegou,False
+206,1917,passaporte,2026-03-12,Atendimento demorou mais que o previsto,True
+207,1918,entregar-imposto-renda,2026-02-12,Dificuldade para preencher os rendimentos,True
+208,1929,carteira-trabalho,2026-06-25,Notificação de status não chegou,False
+209,1936,passaporte,2026-05-14,Demora para conseguir horário de atendimento,True
+210,1952,passaporte,2026-08-29,Falta de clareza nas instruções,True
+211,1955,carteira-trabalho,2026-07-15,Aplicativo travou durante o preenchimento,True
+212,1960,passaporte,2026-01-21,Demora para conseguir horário de atendimento,False
+213,1965,carteira-trabalho,2025-11-14,Verificação facial não reconhece o rosto,True
+214,1991,passaporte,2026-05-02,Demora para conseguir horário de atendimento,True
+215,2002,consultar-restituicao,2026-07-13,Aplicativo travou durante o preenchimento,True
+216,2003,carteira-trabalho,2026-06-15,Verificação facial não reconhece o rosto,True
+217,2009,consultar-imposto-renda,2025-11-24,Lentidão no sistema em época de pico,True
+218,2021,cnh-digital,2026-02-26,Verificação facial não reconhece o rosto,False
+219,2022,passaporte,2025-12-31,Notificação de status não chegou,False
+220,2031,passaporte,2025-09-26,Demora para conseguir horário de atendimento,True
+221,2033,consultar-imposto-renda,2025-12-30,Lentidão no sistema em época de pico,False
+222,2041,consultar-imposto-renda,2026-04-04,Lentidão no sistema em época de pico,True
